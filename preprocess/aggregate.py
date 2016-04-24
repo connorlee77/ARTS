@@ -44,9 +44,8 @@ def processAll(files, PATH, OUTPUT_PATH):
 
 
 if __name__ == "__main__":
-
 	PATH = '../rawdata'
-	OUTPUT_PATH = '../data'
+	OUTPUT_PATH = '../data/data'
 
 	files = getFiles(PATH)
 	processAll(files, PATH, OUTPUT_PATH)

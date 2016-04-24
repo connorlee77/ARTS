@@ -1,0 +1,984 @@
+Date,FareProduct,TransitCard,PaymentType,BusNo,TransactionType,SeqNo,GrpQty,TotalCost,Bonus,Change,TotalChange,ValueLeft,RidesLeft,RenewedAdvCount,Status
+1/19/16 10:45,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,26.5,Unlmtd,,Success
+1/19/16 10:45,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,26.25,Unlmtd,,Success
+1/19/16 10:45,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,20,Unlmtd,,Success
+1/19/16 11:18,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,20.75,Unlmtd,,Success
+1/19/16 11:18,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11.75,Unlmtd,,Success
+1/19/16 15:29,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15,Unlmtd,,Success
+1/19/16 15:29,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18.75,Unlmtd,,Success
+1/19/16 15:29,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,6,Unlmtd,,Success
+1/19/16 16:25,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.25,Unlmtd,,Success
+1/19/16 16:25,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,14.25,Unlmtd,,Success
+1/19/16 16:25,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18,Unlmtd,,Success
+1/19/16 16:25,Reg SV Regular,1.60E+14,N/A,1,No Prod Use Type,,1,0,0,0,0,5.25,Unlmtd,,Passback
+1/19/16 16:25,Reg SV Regular,1.60E+14,N/A,1,No Prod Use Type,,1,0,0,0,0,14.25,Unlmtd,,Passback
+1/19/16 16:25,Reg SV Regular,1.60E+14,N/A,1,No Prod Use Type,,1,0,0,0,0,18,Unlmtd,,Passback
+1/19/16 16:40,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.25,Unlmtd,,Success
+1/19/16 16:40,Reg SV Regular,1.60E+14,N/A,1,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,17.25,Unlmtd,,Success
+1/19/16 6:42,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.25,Unlmtd,,Success
+1/19/16 7:16,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,29.75,Unlmtd,,Success
+1/19/16 7:34,EZ Pass AdultZ0,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:38,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.25,Unlmtd,,Success
+1/19/16 7:42,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13.75,Unlmtd,,Success
+1/19/16 13:59,ASI,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:18,ASI,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:20,ASI,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:22,Reg SV Regular,1.60E+14,N/A,3209,SV Exit (Tag Off),,1,0,0,0,0,3.25,Unlmtd,,Success
+1/19/16 15:27,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10,Unlmtd,,Success
+1/19/16 15:59,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.5,Unlmtd,,Success
+1/19/16 16:04,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,24.75,Unlmtd,,Success
+1/19/16 16:40,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.75,Unlmtd,,Success
+1/19/16 17:17,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13,Unlmtd,,Success
+1/19/16 17:18,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,19.5,Unlmtd,,Success
+1/19/16 17:22,EZ Pass AdultZ0,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:23,EZ Pass AdultZ0,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:22,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.25,Unlmtd,,Success
+1/19/16 18:40,ASI,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:59,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.25,Unlmtd,,Success
+1/19/16 19:02,EZ Pass AdultZ0,1.60E+14,N/A,3209,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:33,Reg SV Regular,1.60E+14,N/A,3209,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4,Unlmtd,,Success
+1/19/16 7:16,Reg SV Regular,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.75,Unlmtd,,Success
+1/19/16 7:22,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:41,EZ Pass S/D Z0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:07,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:07,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:45,EZ Pass AdultZ0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,Reg SV Sr/Dis,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,7.85,Unlmtd,,Success
+1/19/16 9:22,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:22,Reg SV Regular,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,93.4,Unlmtd,,Success
+1/19/16 9:23,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:27,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:57,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:04,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:11,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:16,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:16,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:19,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:19,Reg SV Regular,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13.75,Unlmtd,,Success
+1/19/16 10:21,Reg SV Regular,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,32.5,Unlmtd,,Success
+1/19/16 10:25,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:27,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:29,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:32,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:32,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:09,Reg SV Sr/Dis,1.60E+14,N/A,3295,Hotlisted - Reject Everywhere,,1,0,0,0,0,0,Unlmtd,,Hotlisted - Reject
+1/19/16 11:18,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:18,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:27,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:28,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:31,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,19.25,Unlmtd,0,Success
+1/19/16 11:36,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:36,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:38,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:42,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:50,EZ Pass S/D Z0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:05,EZ Pass S/D Z3,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:10,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,1,Unlmtd,0,Success
+1/19/16 12:14,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:29,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:29,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:37,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:47,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:56,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:57,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:58,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:58,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:01,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:18,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:21,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:23,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:26,Reg SV Regular,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.75,Unlmtd,,Success
+1/19/16 13:37,EZ Pass AdultZ0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0.9,Unlmtd,0,Success
+1/19/16 13:39,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:40,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:42,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:43,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:46,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:00,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:01,EZ Pass AdultZ0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:31,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:35,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:45,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:00,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:14,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:15,Reg SV Sr/Dis,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,1.35,Unlmtd,,Success
+1/19/16 16:00,Reg SV Student,1.60E+14,N/A,3295,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,47,Unlmtd,,Success
+1/19/16 16:04,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:14,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:18,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:35,EZ Pass AdultZ0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:35,EZ Pass AdultZ0,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:37,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:37,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:14,ASI,1.60E+14,N/A,3295,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:05,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.25,Unlmtd,,Success
+1/19/16 6:13,EZ Pass AdultZ0,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:53,EZ Pass AdultZ0,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:18,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,2.55,Unlmtd,0,Success
+1/19/16 7:18,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:43,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:46,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.1,Unlmtd,,Success
+1/19/16 7:51,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,24.75,Unlmtd,,Success
+1/19/16 7:56,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.25,Unlmtd,,Success
+1/19/16 8:13,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:19,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:22,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.2,Unlmtd,,Success
+1/19/16 8:48,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2.25,Unlmtd,,Success
+1/19/16 8:56,DCFS EZ (New),1.70E+18,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:58,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:00,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.5,Unlmtd,,Success
+1/19/16 9:12,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:24,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:35,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:56,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:02,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:09,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:09,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:13,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:14,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:17,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:28,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:31,Reg SV Sr/Dis,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,24.65,Unlmtd,,Success
+1/19/16 10:37,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:41,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:46,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:47,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:05,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:08,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,Reg SV Sr/Dis,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,12.75,Unlmtd,,Success
+1/19/16 11:11,Reg SV Sr/Dis,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,19.35,Unlmtd,,Success
+1/19/16 11:13,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:32,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:38,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:39,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:44,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:46,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:46,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:46,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:51,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:54,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,19.25,Unlmtd,0,Success
+1/19/16 12:00,DCFS EZ (New),1.70E+18,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:12,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:29,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:31,Reg SV Student,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,8,Unlmtd,,Success
+1/19/16 12:39,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:42,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:46,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:50,EZ Pass AdultZ0,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,3.15,Unlmtd,0,Success
+1/19/16 12:50,EZ Pass AdultZ0,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,5.75,Unlmtd,0,Success
+1/19/16 12:56,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:58,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:02,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:07,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:16,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.25,Unlmtd,,Success
+1/19/16 13:17,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:17,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:24,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0,Unlmtd,,Success
+1/19/16 13:26,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0.55,Unlmtd,0,Success
+1/19/16 13:47,Reg SV Sr/Dis,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,3.95,Unlmtd,,Success
+1/19/16 14:03,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:30,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0.25,Unlmtd,0,Success
+1/19/16 14:34,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,2,Unlmtd,0,Success
+1/19/16 14:37,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:44,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:50,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:59,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:00,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:10,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:40,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,40.75,Unlmtd,,Success
+1/19/16 15:41,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:44,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:47,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:50,DCFS EZ (New),1.70E+18,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:04,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:12,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13.5,Unlmtd,,Success
+1/19/16 16:20,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:23,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,1.25,Unlmtd,0,Success
+1/19/16 16:46,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,6.75,Unlmtd,,Success
+1/19/16 16:46,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,42,Unlmtd,,Success
+1/19/16 16:53,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.8,Unlmtd,,Success
+1/19/16 17:17,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:42,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:57,DCFS EZ (New),1.70E+18,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:57,DCFS EZ (New),1.70E+18,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:01,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,35,Unlmtd,,Success
+1/19/16 18:07,Reg SV Regular,1.60E+14,N/A,3224,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.15,Unlmtd,,Success
+1/19/16 18:14,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:21,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:06,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:06,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:34,ASI,1.60E+14,N/A,3224,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:14,Reg SV Regular,1.60E+14,N/A,2210,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,14.75,Unlmtd,,Success
+1/19/16 7:18,Reg SV Regular,1.70E+18,N/A,2210,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,22.5,Unlmtd,,Success
+1/19/16 7:18,Reg SV Regular,1.70E+18,6,2210,SV Directed Autoload,,1,14,0,14,14,23.25,,,Success
+1/19/16 7:20,DCFS EZ (New),1.70E+18,N/A,2210,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:20,DCFS EZ (New),1.70E+18,N/A,2210,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:27,Reg SV Student,1.60E+14,N/A,2210,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,8,Unlmtd,,Success
+1/19/16 15:32,Reg SV Regular,1.60E+14,N/A,2210,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.3,Unlmtd,,Success
+1/19/16 15:33,ASI,1.60E+14,N/A,2210,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:13,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.25,Unlmtd,,Success
+1/19/16 6:15,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,2,Unlmtd,0,Success
+1/19/16 6:19,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,6.5,Unlmtd,,Success
+1/19/16 6:40,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:10,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.4,Unlmtd,,Success
+1/19/16 7:21,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.5,Unlmtd,,Success
+1/19/16 7:28,Reg SV Sr/Dis,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,17.95,Unlmtd,,Success
+1/19/16 7:42,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:46,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:20,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:21,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:20,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:22,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:24,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:26,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:32,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,8.5,Unlmtd,,Success
+1/19/16 9:47,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:50,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:00,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:09,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:09,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:25,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:28,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:33,Reg SV Sr/Dis,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,4.3,Unlmtd,,Success
+1/19/16 10:52,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:55,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:57,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:59,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:01,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:21,EZ Pass S/D Z1,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:24,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:29,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:37,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:13,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0.35,Unlmtd,0,Success
+1/19/16 12:13,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:56,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:05,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:07,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:19,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:40,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:48,Reg SV Sr/Dis,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,9.5,Unlmtd,,Success
+1/19/16 14:06,Reg SV Sr/Dis,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,22.1,Unlmtd,,Success
+1/19/16 14:16,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:55,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:01,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:10,EZ Pass AdultZ0,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:17,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2.75,Unlmtd,,Success
+1/19/16 15:19,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:22,Reg SV Student,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,4.5,Unlmtd,,Success
+1/19/16 15:55,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:14,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,39.3,Unlmtd,,Success
+1/19/16 16:19,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:26,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,33.5,Unlmtd,,Success
+1/19/16 17:07,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:25,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:39,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.5,Unlmtd,,Success
+1/19/16 17:40,EZ Pass AdultZ0,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,1,Success
+1/19/16 17:53,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.25,Unlmtd,,Success
+1/19/16 17:55,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.25,Unlmtd,,Success
+1/19/16 17:56,EZ Pass AdultZ0,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:59,EZ Pass AdultZ0,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:09,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0,Unlmtd,,Success
+1/19/16 18:11,EZ Pass AdultZ0,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0.9,Unlmtd,0,Success
+1/19/16 18:56,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:59,Reg SV Sr/Dis,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,5.3,Unlmtd,,Success
+1/19/16 18:59,ASI,1.60E+14,N/A,3217,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:04,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,16,Unlmtd,,Success
+1/19/16 19:40,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.5,Unlmtd,,Success
+1/19/16 19:55,Reg SV Regular,1.60E+14,N/A,3217,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,41.25,Unlmtd,,Success
+1/19/16 6:05,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:07,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:07,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:37,EZ Annual Z0,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:39,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:42,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,35,Unlmtd,,Success
+1/19/16 7:46,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:47,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18.5,Unlmtd,,Success
+1/19/16 8:08,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:08,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:08,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:30,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,23.5,Unlmtd,,Success
+1/19/16 8:38,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:43,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:56,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:05,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:09,Reg SV Regular,1.60E+14,N/A,3297,SV Exit (Tag Off),,1,0,0,0,0,29,Unlmtd,,Success
+1/19/16 9:09,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.5,Unlmtd,,Success
+1/19/16 9:15,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:17,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:29,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3,Unlmtd,,Success
+1/19/16 9:35,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:36,DCFS EZ (New),1.70E+18,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:53,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0.4,Unlmtd,0,Success
+1/19/16 9:58,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11,Unlmtd,,Success
+1/19/16 10:14,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:19,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:20,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:46,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:47,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:57,EZ Pass S/D Z0,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,3.25,Unlmtd,1,Success
+1/19/16 11:00,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1.5,Unlmtd,,Success
+1/19/16 11:00,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:17,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:19,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:19,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:24,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:24,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:26,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:47,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:17,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:20,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.25,Unlmtd,,Success
+1/19/16 12:22,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:22,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:22,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:53,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:10,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11.75,Unlmtd,,Success
+1/19/16 13:23,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,31.75,Unlmtd,,Success
+1/19/16 13:36,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:43,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:03,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:03,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,49.6,Unlmtd,,Success
+1/19/16 14:08,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:13,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:19,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10,Unlmtd,,Success
+1/19/16 14:26,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.25,Unlmtd,,Success
+1/19/16 14:34,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:45,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:45,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0,Unlmtd,,Success
+1/19/16 15:14,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:19,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:19,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:30,Reg SV Student,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,9.5,Unlmtd,,Success
+1/19/16 15:32,Reg SV College,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.25,Unlmtd,,Success
+1/19/16 15:32,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2.55,Unlmtd,,Success
+1/19/16 15:51,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:03,Reg SV Regular,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.25,Unlmtd,,Success
+1/19/16 16:27,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:28,EZ Pass S/D Z0,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:30,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:39,ASI,1.60E+14,N/A,3297,Pass Entry (Tag On),,1,0,0,0,0,0.25,Unlmtd,0,Success
+1/19/16 18:50,Reg SV Sr/Dis,1.60E+14,N/A,3297,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,9.7,Unlmtd,,Success
+1/19/16 6:07,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1.25,Unlmtd,,Success
+1/19/16 6:14,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13.25,Unlmtd,,Success
+1/19/16 7:02,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:07,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:24,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.5,Unlmtd,,Success
+1/19/16 7:27,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:39,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,8.75,Unlmtd,,Success
+1/19/16 8:05,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:17,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:18,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:31,EZ Pass AdultZ0,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,1,Success
+1/19/16 8:44,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13,Unlmtd,,Success
+1/19/16 8:47,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:50,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:04,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:06,DCFS EZ (New),1.70E+18,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:07,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:07,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:10,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4,Unlmtd,,Success
+1/19/16 9:10,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:11,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:12,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:13,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:14,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:33,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,16.25,Unlmtd,,Success
+1/19/16 10:15,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:16,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:43,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12,Unlmtd,,Success
+1/19/16 10:47,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:50,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:51,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.25,Unlmtd,,Success
+1/19/16 10:51,EZ Pass S/D Z0,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:52,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:56,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,8.15,Unlmtd,,Success
+1/19/16 10:58,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:24,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:26,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:26,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:31,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:49,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:54,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:54,Reg SV Sr/Dis,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,12.4,Unlmtd,,Success
+1/19/16 11:54,Reg SV Sr/Dis,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,19,Unlmtd,,Success
+1/19/16 11:59,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:03,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10,Unlmtd,,Success
+1/19/16 12:22,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:24,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:29,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:29,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:52,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11.75,Unlmtd,,Success
+1/19/16 12:58,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:09,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,22.5,Unlmtd,,Success
+1/19/16 13:10,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:10,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:38,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:38,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:47,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:48,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:01,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:28,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:45,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,25.25,Unlmtd,,Success
+1/19/16 14:51,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:06,Reg SV Student,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,16,Unlmtd,,Success
+1/19/16 15:16,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,1,Unlmtd,0,Success
+1/19/16 15:20,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:20,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:20,Reg SV Sr/Dis,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,5.9,Unlmtd,,Success
+1/19/16 15:22,EZ Pass S/D Z0,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:22,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:22,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:29,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0.25,Unlmtd,0,Success
+1/19/16 15:30,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.5,Unlmtd,,Success
+1/19/16 15:54,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0.35,Unlmtd,0,Success
+1/19/16 16:13,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:28,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:30,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:32,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,30.5,Unlmtd,,Success
+1/19/16 17:02,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:05,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:08,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,62.5,Unlmtd,,Success
+1/19/16 17:09,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2.45,Unlmtd,,Success
+1/19/16 17:35,EZ Pass AdultZ0,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:36,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:39,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5,Unlmtd,,Success
+1/19/16 18:48,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:48,DCFS EZ (New),1.70E+18,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:48,Reg SV Regular,1.60E+14,N/A,3296,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3,Unlmtd,,Success
+1/19/16 19:52,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:54,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:54,ASI,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:54,EZ Pass AdultZ0,1.60E+14,N/A,3296,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:26,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:44,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:17,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:26,Reg SV Regular,1.70E+18,N/A,3293,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2.25,Unlmtd,,Success
+1/19/16 16:28,Reg SV Regular,1.60E+14,N/A,3293,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.5,Unlmtd,,Success
+1/19/16 16:39,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:48,Reg SV Regular,1.60E+14,N/A,3293,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1.25,Unlmtd,,Success
+1/19/16 16:48,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:48,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:52,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:58,ASI,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:27,EZ Pass S/D Z0,1.60E+14,N/A,3293,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:31,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:13,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.75,Unlmtd,,Success
+1/19/16 7:34,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:35,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:38,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,60,Unlmtd,,Success
+1/19/16 8:31,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2,Unlmtd,,Success
+1/19/16 9:46,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:49,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:56,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:08,EZ Pass S/D Z0,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:40,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:44,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:52,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:01,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:02,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:04,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:17,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:32,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:54,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:58,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:07,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:37,EZ Pass S/D Z0,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:00,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:00,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:07,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:12,EZ Pass S/D Z0,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:18,EZ Pass S/D Z0,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:06,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:12,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:12,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:12,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0.35,Unlmtd,0,Success
+1/19/16 14:13,DCFS EZ (New),1.70E+18,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:16,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:21,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:23,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:24,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:26,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:51,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12,Unlmtd,,Success
+1/19/16 14:56,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:57,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15,Unlmtd,,Success
+1/19/16 15:11,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:17,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9,Unlmtd,,Success
+1/19/16 15:30,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:11,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,59.25,Unlmtd,,Success
+1/19/16 16:14,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:21,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:29,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:35,ASI,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:44,EZ Pass S/D Z0,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:44,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.5,Unlmtd,,Success
+1/19/16 17:49,EZ Pass AdultZ0,1.60E+14,N/A,3292,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:52,Reg SV Regular,1.60E+14,N/A,3292,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,26.25,Unlmtd,,Success
+1/19/16 6:19,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:36,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:42,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:46,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:03,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.3,Unlmtd,,Success
+1/19/16 7:14,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,25.25,Unlmtd,,Success
+1/19/16 7:42,EZ Pass AdultZ0,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0.05,Unlmtd,0,Success
+1/19/16 7:43,EZ Annual Z1,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:49,Reg SV Sr/Dis,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,19.7,Unlmtd,,Success
+1/19/16 8:06,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:06,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3,Unlmtd,,Success
+1/19/16 8:14,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.1,Unlmtd,,Success
+1/19/16 8:15,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:16,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:18,EZ Pass S/D Z0,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:18,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:20,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:35,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:46,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:46,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,24,Unlmtd,,Success
+1/19/16 8:53,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:56,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:03,Reg SV Sr/Dis,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,4.95,Unlmtd,,Success
+1/19/16 9:18,Reg SV Sr/Dis,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,4.65,Unlmtd,,Success
+1/19/16 9:26,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.3,Unlmtd,,Success
+1/19/16 9:28,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,37.5,Unlmtd,,Success
+1/19/16 9:50,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,53.75,Unlmtd,,Success
+1/19/16 9:50,Reg SV Regular,1.60E+14,7,3298,SV Threshold Autoload,,1,50,0,50,50,54.5,,,Success
+1/19/16 9:50,Reg SV Sr/Dis,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,6.9,Unlmtd,,Success
+1/19/16 9:52,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:52,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.5,Unlmtd,,Success
+1/19/16 9:52,Reg SV Regular,1.60E+14,N/A,3298,No Prod Use Type,,1,0,0,0,0,3.5,Unlmtd,,Passback
+1/19/16 9:52,Reg SV Regular,1.60E+14,N/A,3298,No Prod Use Type,,1,0,0,0,0,3.5,Unlmtd,,Passback
+1/19/16 9:56,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0.5,Unlmtd,0,Success
+1/19/16 9:58,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:20,DCFS EZ (New),1.70E+18,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:29,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:56,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:57,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:00,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:00,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:27,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:35,DCFS EZ (New),1.70E+18,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:05,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:14,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:22,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:25,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:28,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:35,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:42,EZ Pass S/D Z0,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:42,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:51,DCFS EZ (New),1.70E+18,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:56,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:10,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:12,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:15,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:15,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:34,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:36,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,23.75,Unlmtd,,Success
+1/19/16 13:43,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,17.75,Unlmtd,,Success
+1/19/16 13:53,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,20.25,Unlmtd,,Success
+1/19/16 14:24,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:35,EZ Pass S/D Z0,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0.21,Unlmtd,0,Success
+1/19/16 14:48,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:48,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.5,Unlmtd,,Success
+1/19/16 14:49,Reg SV Regular,1.60E+14,N/A,3298,No Prod Use Type,,1,0,0,0,0,3.5,Unlmtd,,Passback
+1/19/16 14:56,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:59,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2.5,Unlmtd,,Success
+1/19/16 15:04,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,8.35,Unlmtd,,Success
+1/19/16 15:04,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1,Unlmtd,,Success
+1/19/16 15:06,EZ Pass S/D Z0,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:07,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:45,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:50,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7,Unlmtd,,Success
+1/19/16 15:52,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,2,Unlmtd,0,Success
+1/19/16 15:57,EZ Pass S/D Z1,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,1,Success
+1/19/16 16:11,DCFS EZ (New),1.70E+18,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:12,DCFS EZ (New),1.70E+18,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:38,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:48,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,30.5,Unlmtd,,Success
+1/19/16 18:09,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:13,Reg SV Regular,1.60E+14,N/A,3298,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.75,Unlmtd,,Success
+1/19/16 18:22,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:22,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:00,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:02,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:07,ASI,1.60E+14,N/A,3298,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:18,EZ Pass AdultZ0,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:02,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:27,Reg SV Sr/Dis,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,28.1,Unlmtd,,Success
+1/19/16 8:29,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.25,Unlmtd,,Success
+1/19/16 9:02,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,39,Unlmtd,,Success
+1/19/16 9:14,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:45,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1.6,Unlmtd,,Success
+1/19/16 9:46,Reg SV Sr/Dis,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,27.8,Unlmtd,,Success
+1/19/16 9:46,Reg SV Regular,1.70E+18,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.25,Unlmtd,,Success
+1/19/16 9:59,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:09,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:30,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.5,Unlmtd,,Success
+1/19/16 10:35,Reg SV Sr/Dis,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,4.6,Unlmtd,,Success
+1/19/16 10:38,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:01,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:30,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:50,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13.25,Unlmtd,,Success
+1/19/16 12:25,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.5,Unlmtd,,Success
+1/19/16 13:05,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:07,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,28.15,Unlmtd,,Success
+1/19/16 14:30,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18.75,Unlmtd,,Success
+1/19/16 14:34,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:10,ASI,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:47,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,13.75,Unlmtd,,Success
+1/19/16 17:24,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.5,Unlmtd,,Success
+1/19/16 18:15,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11.65,Unlmtd,,Success
+1/19/16 18:32,EZ Pass AdultZ0,1.60E+14,N/A,3220,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:24,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.2,Unlmtd,,Success
+1/19/16 19:34,Reg SV Regular,1.60E+14,N/A,3220,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,39.75,Unlmtd,,Success
+1/19/16 6:01,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,49.3,Unlmtd,,Success
+1/19/16 6:24,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.75,Unlmtd,,Success
+1/19/16 6:28,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18.05,Unlmtd,,Success
+1/19/16 7:56,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:57,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1,Unlmtd,,Success
+1/19/16 8:17,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:11,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,29.75,Unlmtd,,Success
+1/19/16 9:29,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.5,Unlmtd,,Success
+1/19/16 10:03,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:07,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:20,EZ Pass S/D Z0,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:20,DCFS EZ (New),1.70E+18,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:42,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.5,Unlmtd,,Success
+1/19/16 10:47,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,8.5,Unlmtd,,Success
+1/19/16 10:53,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:03,EZ Pass S/D Z0,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:07,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:46,EZ Pass S/D Z0,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,3.25,Unlmtd,1,Success
+1/19/16 11:49,EZ Pass S/D Z0,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:29,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:39,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,50.5,Unlmtd,,Success
+1/19/16 13:52,Reg SV Sr/Dis,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,6.25,Unlmtd,,Success
+1/19/16 13:54,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4,Unlmtd,,Success
+1/19/16 14:24,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.5,Unlmtd,,Success
+1/19/16 15:22,EZ Pass S/D Z0,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:47,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,2,Unlmtd,,Success
+1/19/16 15:57,EZ Pass AdultZ1,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:15,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:22,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.55,Unlmtd,,Success
+1/19/16 16:26,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:35,Reg SV Sr/Dis,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,19.65,Unlmtd,,Success
+1/19/16 16:35,Reg SV Sr/Dis,1.60E+14,6,3225,SV Directed Autoload,,1,20,0,20,20,20,,,Success
+1/19/16 16:44,EZ Pass S/D Z0,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:44,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.5,Unlmtd,,Success
+1/19/16 16:50,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,1.75,Unlmtd,0,Success
+1/19/16 17:11,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.25,Unlmtd,,Success
+1/19/16 17:32,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,35.25,Unlmtd,,Success
+1/19/16 17:36,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.7,Unlmtd,,Success
+1/19/16 17:45,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12,Unlmtd,,Success
+1/19/16 18:55,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,3.25,Unlmtd,,Success
+1/19/16 19:24,Reg SV Regular,1.60E+14,N/A,3225,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,24,Unlmtd,,Success
+1/19/16 19:59,ASI,1.60E+14,N/A,3225,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:07,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,17.25,Unlmtd,,Success
+1/19/16 8:17,EZ Pass AdultZ0,1.60E+14,N/A,3206,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:20,ASI,1.60E+14,N/A,3206,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:15,EZ Pass AdultZ0,1.60E+14,N/A,3206,Pass Entry (Tag On),,1,0,0,0,0,1,Unlmtd,0,Success
+1/19/16 9:26,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.5,Unlmtd,,Success
+1/19/16 9:57,ASI,1.60E+14,N/A,3206,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:57,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,25.15,Unlmtd,,Success
+1/19/16 10:07,ASI,1.60E+14,N/A,3206,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:45,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11,Unlmtd,,Success
+1/19/16 10:45,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,14,Unlmtd,,Success
+1/19/16 11:01,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0,Unlmtd,,Success
+1/19/16 12:20,Reg SV Regular,1.60E+14,N/A,3206,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.75,Unlmtd,,Success
+1/19/16 8:19,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:25,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,EZ Pass S/D Z0,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:58,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.25,Unlmtd,,Success
+1/19/16 9:02,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:33,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:34,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:36,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,6.25,Unlmtd,,Success
+1/19/16 9:37,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:00,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.5,Unlmtd,,Success
+1/19/16 10:06,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.75,Unlmtd,,Success
+1/19/16 10:09,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:10,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:10,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:10,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,8.15,Unlmtd,,Success
+1/19/16 10:12,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:36,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0.25,Unlmtd,0,Success
+1/19/16 10:44,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:09,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:09,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1,Unlmtd,,Success
+1/19/16 11:10,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:41,Reg SV Sr/Dis,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,3.8,Unlmtd,,Success
+1/19/16 11:44,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:56,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:59,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:14,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,23.25,Unlmtd,,Success
+1/19/16 12:15,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:15,Reg SV Student,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,0,Unlmtd,,Success
+1/19/16 12:15,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,21,Unlmtd,,Success
+1/19/16 12:19,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:27,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:27,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:52,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:55,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:22,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:24,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,63.25,Unlmtd,,Success
+1/19/16 13:26,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:26,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:31,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:41,EZ Pass S/D Z0,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,6.45,Unlmtd,0,Success
+1/19/16 13:57,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.75,Unlmtd,,Success
+1/19/16 13:58,Reg SV Sr/Dis,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,6.75,Unlmtd,,Success
+1/19/16 14:08,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:28,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:30,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12,Unlmtd,,Success
+1/19/16 14:38,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,40.05,Unlmtd,,Success
+1/19/16 15:09,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:09,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:11,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,2.55,Unlmtd,0,Success
+1/19/16 15:46,Reg SV Sr/Dis,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,19.35,Unlmtd,,Success
+1/19/16 15:47,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:47,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,38.5,Unlmtd,,Success
+1/19/16 16:14,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.75,Unlmtd,,Success
+1/19/16 16:20,Reg SV Student,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,46.5,Unlmtd,,Success
+1/19/16 16:24,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:35,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,17,Unlmtd,,Success
+1/19/16 16:53,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:59,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:03,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:03,EZ Pass AdultZ0,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:06,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:07,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:17,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:21,Reg SV Sr/Dis,1.60E+14,N/A,3221,No Prod Use Type,,1,0,0,0,0,0,Unlmtd,,Passback
+1/19/16 17:35,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:35,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:37,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,39.75,Unlmtd,,Success
+1/19/16 17:47,EZ Annual Z0,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:00,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,22.75,Unlmtd,,Success
+1/19/16 18:04,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:53,ASI,1.60E+14,N/A,3221,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:04,Reg SV Regular,1.60E+14,N/A,3221,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,24,Unlmtd,,Success
+1/19/16 6:29,Reg SV Student,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,12.5,Unlmtd,,Success
+1/19/16 7:22,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:30,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:43,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11,Unlmtd,,Success
+1/19/16 8:15,EZ Pass AdultZ0,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:33,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:44,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:49,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:04,EZ Pass AdultZ0,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:30,Reg SV Sr/Dis,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,1.7,Unlmtd,,Success
+1/19/16 9:39,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0.5,Unlmtd,0,Success
+1/19/16 9:46,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:47,Reg SV Sr/Dis,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,11.5,Unlmtd,,Success
+1/19/16 9:51,EZ Pass AdultZ0,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:05,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:07,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:21,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:32,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:51,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:56,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:56,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:03,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:03,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:04,Reg SV Sr/Dis,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,11.15,Unlmtd,,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:12,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:14,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:18,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:24,Reg SV Sr/Dis,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,7.5,Unlmtd,,Success
+1/19/16 11:24,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:55,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.75,Unlmtd,,Success
+1/19/16 11:58,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:01,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:15,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,14,Unlmtd,,Success
+1/19/16 12:33,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.25,Unlmtd,,Success
+1/19/16 12:50,EZ Pass AdultZ0,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:50,EZ Pass AdultZ0,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:11,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:30,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.3,Unlmtd,,Success
+1/19/16 13:31,Reg SV Sr/Dis,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,11.6,Unlmtd,,Success
+1/19/16 13:34,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:42,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,23.85,Unlmtd,,Success
+1/19/16 14:07,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:15,Reg SV Regular,1.60E+14,N/A,3294,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0,Unlmtd,,Success
+1/19/16 14:24,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:44,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:01,EZ Pass AdultZ0,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:21,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:37,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:41,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0.35,Unlmtd,0,Success
+1/19/16 18:33,ASI,1.60E+14,N/A,3294,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:04,ASI,1.60E+14,N/A,3207,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:22,Reg SV Regular,1.60E+14,N/A,3207,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.5,Unlmtd,,Success
+1/19/16 10:14,Reg SV Regular,1.60E+14,N/A,3051,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.25,Unlmtd,,Success
+1/19/16 6:33,Reg SV Regular,1.60E+14,N/A,3208,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,37.8,Unlmtd,,Success
+1/19/16 7:18,Reg SV Regular,1.60E+14,N/A,3208,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,34.75,Unlmtd,,Success
+1/19/16 7:38,EZ Pass AdultZ0,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:52,ASI,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:19,ASI,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:31,ASI,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:40,EZ Pass AdultZ0,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:54,EZ Pass AdultZ0,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:29,ASI,1.60E+14,N/A,3208,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:24,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 6:46,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7,Unlmtd,,Success
+1/19/16 6:52,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18,Unlmtd,,Success
+1/19/16 7:09,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.75,Unlmtd,,Success
+1/19/16 7:10,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:13,DCFS EZ (New),1.70E+18,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:13,Reg SV Student,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,5.5,Unlmtd,,Success
+1/19/16 8:18,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:20,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.25,Unlmtd,,Success
+1/19/16 8:56,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:15,EZ Pass S/D Z0,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0.65,Unlmtd,0,Success
+1/19/16 9:21,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:26,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:49,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.5,Unlmtd,,Success
+1/19/16 10:26,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:42,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:16,DCFS EZ (New),1.70E+18,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:23,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:34,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:43,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.75,Unlmtd,,Success
+1/19/16 12:26,Reg SV Sr/Dis,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,16.05,Unlmtd,,Success
+1/19/16 12:26,Reg SV Sr/Dis,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,13.9,Unlmtd,,Success
+1/19/16 12:36,EZ Pass S/D Z0,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0.65,Unlmtd,0,Success
+1/19/16 12:40,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:52,Reg SV Sr/Dis,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,12.65,Unlmtd,,Success
+1/19/16 13:40,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,16.25,Unlmtd,,Success
+1/19/16 13:46,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:49,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:16,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:40,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0.55,Unlmtd,0,Success
+1/19/16 14:48,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:58,EZ Pass S/D Z0,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:01,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:14,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.25,Unlmtd,,Success
+1/19/16 15:14,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.5,Unlmtd,,Success
+1/19/16 15:23,EZ Pass S/D Z0,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0.65,Unlmtd,0,Success
+1/19/16 15:28,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:48,Reg SV Regular,1.60E+14,N/A,3216,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,11.75,Unlmtd,,Success
+1/19/16 16:56,EZ Pass AdultZ0,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:11,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:26,ASI,1.60E+14,N/A,3216,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:28,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,6,Unlmtd,,Success
+1/19/16 7:32,Reg SV Student,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,34.25,Unlmtd,,Success
+1/19/16 8:11,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.5,Unlmtd,,Success
+1/19/16 8:16,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:06,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:06,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:07,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:19,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0.3,Unlmtd,0,Success
+1/19/16 9:26,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:42,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:49,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0.3,Unlmtd,0,Success
+1/19/16 9:51,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:13,Reg SV Sr/Dis,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,1.65,Unlmtd,,Success
+1/19/16 10:17,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1,Unlmtd,,Success
+1/19/16 10:17,Reg SV Regular,1.60E+14,N/A,3219,No Prod Use Type,,1,0,0,0,0,1,Unlmtd,,Passback
+1/19/16 10:27,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:30,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:30,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:33,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:34,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,39.25,Unlmtd,,Success
+1/19/16 10:40,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:46,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:47,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:50,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:50,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:53,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:11,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:33,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:36,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:42,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:46,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:49,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.25,Unlmtd,,Success
+1/19/16 12:01,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:08,Reg SV Sr/Dis,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,1.3,Unlmtd,,Success
+1/19/16 12:30,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:36,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:36,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:36,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:12,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:15,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:46,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:46,EZ Pass S/D Z0,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:46,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0,Unlmtd,,Success
+1/19/16 14:12,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:12,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:29,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:29,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:08,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.25,Unlmtd,,Success
+1/19/16 15:18,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:23,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:41,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:41,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:52,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:53,Reg SV Sr/Dis,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,1.15,Unlmtd,,Success
+1/19/16 15:54,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:27,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,0.5,Unlmtd,,Success
+1/19/16 16:31,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:54,Reg SV Student,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,10,Unlmtd,,Success
+1/19/16 16:54,Reg SV Student,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.5,0,-0.5,-0.5,6,Unlmtd,,Success
+1/19/16 17:06,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 17:39,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 18:23,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,89.15,Unlmtd,,Success
+1/19/16 18:23,ASI,1.60E+14,N/A,3219,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 19:16,Reg SV Regular,1.60E+14,N/A,3219,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,7.25,Unlmtd,,Success
+1/19/16 6:24,Reg SV Regular,1.60E+14,N/A,3222,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,16.25,Unlmtd,,Success
+1/19/16 6:25,Reg SV Regular,1.60E+14,N/A,3222,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,17,Unlmtd,,Success
+1/19/16 6:59,Reg SV Regular,1.60E+14,N/A,3222,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,18.5,Unlmtd,,Success
+1/19/16 7:12,Reg SV Regular,1.60E+14,N/A,3222,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,19.5,Unlmtd,,Success
+1/19/16 7:33,Reg SV Regular,1.60E+14,N/A,3222,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,15.75,Unlmtd,,Success
+1/19/16 8:57,ASI,1.60E+14,N/A,3222,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:57,Reg SV Regular,1.60E+14,N/A,3222,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.55,Unlmtd,,Success
+1/19/16 9:04,ASI,1.60E+14,N/A,3222,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 9:19,ASI,1.60E+14,N/A,3222,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:05,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:22,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 7:42,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,19.25,Unlmtd,,Success
+1/19/16 8:00,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:38,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,27,Unlmtd,,Success
+1/19/16 8:47,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 8:47,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 10:10,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,12.75,Unlmtd,,Success
+1/19/16 10:16,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,5.75,Unlmtd,,Success
+1/19/16 10:31,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,14,Unlmtd,,Success
+1/19/16 10:37,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:08,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,19.25,Unlmtd,,Success
+1/19/16 11:12,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:13,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:13,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 11:13,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 12:08,Reg SV Sr/Dis,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,6.7,Unlmtd,,Success
+1/19/16 12:23,EZ Pass AdultZ0,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0.05,Unlmtd,0,Success
+1/19/16 13:02,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:05,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,17.75,Unlmtd,,Success
+1/19/16 13:27,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 13:51,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:00,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:09,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:18,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:49,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 14:50,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:09,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 15:09,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:10,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:26,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,10.25,Unlmtd,,Success
+1/19/16 16:32,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,1.9,Unlmtd,,Success
+1/19/16 16:41,ASI,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,0,Unlmtd,0,Success
+1/19/16 16:53,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,14.75,Unlmtd,,Success
+1/19/16 16:57,Reg SV Sr/Dis,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.35,0,-0.35,-0.35,8.75,Unlmtd,,Success
+1/19/16 17:43,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,38.25,Unlmtd,,Success
+1/19/16 17:48,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,29,Unlmtd,,Success
+1/19/16 18:03,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.25,Unlmtd,,Success
+1/19/16 18:42,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,9.5,Unlmtd,,Success
+1/19/16 18:53,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,6.75,Unlmtd,,Success
+1/19/16 19:09,EZ Pass AdultZ0,1.60E+14,N/A,3223,Pass Entry (Tag On),,1,0,0,0,0,3,Unlmtd,0,Success
+1/19/16 19:17,Reg SV Regular,1.60E+14,N/A,3223,SV Entry (Tag On),,1,0.75,0,-0.75,-0.75,4.8,Unlmtd,,Success
