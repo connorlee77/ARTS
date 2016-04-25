@@ -35,8 +35,9 @@ def aggregateRouteCost(frame):
 	
 	plot2 = frame.TransactionType.value_counts().plot(kind='bar')
 	fig2 = plot2.get_figure()
+	plt.ylim(0,1500)
 	plt.xlabel('Transaction Type')
-	plt.ylabel('Number of instances')
+	plt.ylabel('Unique instances')
 	plt.title('Transaction Methods')
 	fig2.savefig('vizzy2.jpg')
     
