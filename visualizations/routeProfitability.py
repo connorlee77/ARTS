@@ -1,6 +1,4 @@
 import numpy as np 
-import matplotlib
-matplotlib.use('Agg')
 import pandas as pd 
 import os 
 import matplotlib.pyplot as plt
@@ -32,15 +30,7 @@ def aggregateRouteCost(frame):
 	plt.ylabel('Revenue ($)')
 	plt.title('Total Revenue of Routes')
 	fig1.savefig('vizzy1.jpg')
-	
-	plot2 = frame.TransactionType.value_counts().plot(kind='bar')
-	fig2 = plot2.get_figure()
-	plt.ylim(0,1500)
-	plt.xlabel('Transaction Type')
-	plt.ylabel('Unique instances')
-	plt.title('Transaction Methods')
-	fig2.savefig('vizzy2.jpg')
-    
+
 
 if __name__ == "__main__":
 
