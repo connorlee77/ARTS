@@ -26,12 +26,10 @@ def getDataFrame(path, files):
 def aggregateRouteCost(frame):
 	route_costs = frame.groupby('Route').agg({'TotalCost': np.sum})
 	
-	date = frame.iloc[0]['Date'].split()[0]
-
 	route_costs.plot(kind='bar',color='r', legend=False)
 	plt.xlabel('Route')
-	plt.ylabel('Gross Profits ($)')
-	plt.title('Total Profit of Routes on ' + date)
+	plt.ylabel('Revenue ($)')
+	plt.title('Total Revenue of Routes')
 	plt.show()
 
 
