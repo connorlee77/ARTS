@@ -1,6 +1,5 @@
 import numpy as np 
 import matplotlib
-matplotlib.use('Agg')
 import pandas as pd 
 import os 
 import matplotlib.pyplot as plt
@@ -24,16 +23,13 @@ def getDataFrame(path, files):
 	return pd.concat(frames)  
 
 
-def aggregateRouteCost(frame):
-	plot2 = frame.TransactionType.value_counts().plot(kind='bar')
-	fig2 = plot2.get_figure()
-	plt.ylim(0,1500)
+def tapBreakdown(frame):
+	frame.TransactionType.value_counts().plot(kind='bar')
+	plt.ylim(0,1200)
 	plt.xlabel('Transaction Type')
 	plt.ylabel('Unique instances')
 	plt.title('Transaction Method')
-	fig2.savefig('vizzy2.jpg')
-	
-    
+	plt.show()
 
 if __name__ == "__main__":
 
@@ -42,4 +38,4 @@ if __name__ == "__main__":
 	files = getFiles(PATH)
 	df = getDataFrame(PATH, files)
 	
-	aggregateRouteCost(df)
+	tapBreakdown(df)
