@@ -25,12 +25,12 @@ def getDataFrame(path, files):
 	return pd.concat(frames)  
 
 
-def aggregateRouteCost(frame):
-	route_costs = frame.groupby('Route').agg({'TotalCost': np.sum})
+def aggregateRouteDelay(frame):
+	route_costs = frame.groupby('Route').agg({'Avg Arrival Diff': np.mean})
 	route_costs.plot(kind='bar',color='r', legend=False)
 	plt.xlabel('Route')
-	plt.ylabel('Revenue ($)')
-	plt.title('Total Revenue of Routes')
+	plt.ylabel('Delay (min)')
+	plt.title('Mean Delay of Routes')
 	plt.show()
 
 if __name__ == "__main__":
@@ -40,4 +40,4 @@ if __name__ == "__main__":
 	files = getFiles(PATH)
 	df = getDataFrame(PATH, files)
 	
-	aggregateRouteCost(df)
+	aggregateRouteDelay(df)

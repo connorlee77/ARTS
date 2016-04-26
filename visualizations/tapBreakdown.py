@@ -4,6 +4,9 @@ import pandas as pd
 import os 
 import matplotlib.pyplot as plt
 
+from matplotlib import rcParams
+rcParams.update({'figure.autolayout': True})
+
 def getFiles(PATH):
 
 	csvs = []
@@ -26,7 +29,7 @@ def getDataFrame(path, files):
 def tapBreakdown(frame):
 	frame.TransactionType.value_counts().plot(kind='bar')
 	plt.ylim(0,1200)
-	plt.xlabel('Transaction Type')
+	#plt.xlabel('Transaction Type')
 	plt.ylabel('Unique instances')
 	plt.title('Transaction Method')
 	plt.show()
