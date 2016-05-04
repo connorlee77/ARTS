@@ -1,0 +1,1036 @@
+Date,FareProduct,TransitCard,PaymentType,BusNo,TransactionType,SeqNo,GrpQty,TotalCost,Bonus,Change,TotalChange,ValueLeft,RidesLeft,RenewedAdvCount,Status
+14-Apr-16 05:53:41,EZ Pass AdultZ0,0160008206225756,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,4.50,Unlmtd,0,Success
+14-Apr-16 05:53:44,EZ Pass AdultZ0,0160000921323289,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,14.50,Unlmtd,0,Success
+14-Apr-16 05:53:47,EZ Pass AdultZ0,0160013374880614,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.50,Unlmtd,0,Success
+14-Apr-16 06:26:22,Reg SV Regular,0160042141168243,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.15,Unlmtd,,Success
+14-Apr-16 07:07:34,Reg SV Regular,0160008523022555,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.25,Unlmtd,,Success
+14-Apr-16 07:33:49,ASI,0160038261490193,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:55:17,Reg SV Regular,0160041675281521,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.50,Unlmtd,,Success
+14-Apr-16 07:56:09,Reg SV Regular,0160041802549360,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.75,Unlmtd,,Success
+14-Apr-16 07:59:55,ASI,0160005646159199,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:01:45,ASI,0160011542335909,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.25,Unlmtd,0,Success
+14-Apr-16 08:05:43,EZ Pass AdultZ0,0160008135128063,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:08:32,Reg SV Sr/Dis,0160008121300312,N/A,3219,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,19.15,Unlmtd,,Success
+14-Apr-16 08:22:10,Reg SV Regular,0160008376342233,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.00,Unlmtd,,Success
+14-Apr-16 08:22:13,Reg SV Regular,0160007827065799,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,40.50,Unlmtd,,Success
+14-Apr-16 08:22:16,Reg SV Regular,0160001048987923,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.75,Unlmtd,,Success
+14-Apr-16 08:25:38,Reg SV Regular,0160007591080677,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.50,Unlmtd,,Success
+14-Apr-16 08:25:49,Reg SV Regular,0160004867235671,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,36.00,Unlmtd,,Success
+14-Apr-16 08:43:14,ASI,0160005586927191,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:46:15,Reg SV Regular,0160041888683349,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.00,Unlmtd,,Success
+14-Apr-16 09:14:24,ASI,0160008289261272,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:16:22,Reg SV Regular,0160008995015517,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.00,Unlmtd,,Success
+14-Apr-16 09:30:41,Reg SV Regular,0160008705394392,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,21.00,Unlmtd,,Success
+14-Apr-16 09:32:26,ASI,0160008105637911,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:53:59,Reg SV Regular,0160018146807928,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.00,Unlmtd,,Success
+14-Apr-16 09:55:31,ASI,0160019592146118,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.50,Unlmtd,0,Success
+14-Apr-16 10:43:34,Reg SV Regular,0160000177970965,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.00,Unlmtd,,Success
+14-Apr-16 10:44:44,Reg SV Regular,0160014091432564,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.00,Unlmtd,,Success
+14-Apr-16 10:47:05,Reg SV Regular,0160004856112477,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.75,Unlmtd,,Success
+14-Apr-16 10:49:17,Reg SV Regular,0160041704465525,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.05,Unlmtd,,Success
+14-Apr-16 10:49:19,Reg SV Regular,0160000906761255,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,41.75,Unlmtd,,Success
+14-Apr-16 10:55:40,Reg SV Sr/Dis,0160005319476318,N/A,3219,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,14.70,Unlmtd,,Success
+14-Apr-16 11:08:01,ASI,0160005585510873,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:08:06,ASI,0160033084326500,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:10:05,EZ Pass AdultZ0,0160008088322275,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:11:25,ASI,0160004975267673,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:13:30,ASI,0160005598877590,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:06:23,ASI,0160008090141275,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:09:57,DCFS EZ (New),01700304567331877121,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:59:50,Reg SV Regular,0160004931587354,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.25,Unlmtd,,Success
+14-Apr-16 13:12:26,ASI,0160005835283032,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:27:07,Reg SV Regular,0160005434223835,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.15,Unlmtd,,Success
+14-Apr-16 14:30:20,Reg SV Regular,0160042821900402,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.25,Unlmtd,,Success
+14-Apr-16 14:35:21,Reg SV Regular,0160008992112671,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.80,Unlmtd,,Success
+14-Apr-16 14:52:11,Reg SV Regular,0160005031338390,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.25,Unlmtd,,Success
+14-Apr-16 15:04:13,EZ Pass AdultZ0,0160000921323289,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,14.50,Unlmtd,0,Success
+14-Apr-16 15:04:15,EZ Pass AdultZ0,0160008206225756,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,4.50,Unlmtd,0,Success
+14-Apr-16 15:04:16,EZ Pass AdultZ0,0160013374880614,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.50,Unlmtd,0,Success
+14-Apr-16 15:06:49,Reg SV Regular,0160008094883674,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.00,Unlmtd,,Success
+14-Apr-16 16:42:53,ASI,0160011833643581,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:44:10,EZ Pass S/D Z0,01701627397104759084,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.05,Unlmtd,0,Success
+14-Apr-16 16:45:24,Reg SV Student,0160029024629318,N/A,3219,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,5.00,Unlmtd,,Success
+14-Apr-16 16:45:26,Reg SV Regular,0160004832572638,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.75,Unlmtd,,Success
+14-Apr-16 16:45:28,Reg SV Regular,0160004829832474,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.25,Unlmtd,,Success
+14-Apr-16 16:56:35,EZ Pass AdultZ0,0160008672579678,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:10:30,Reg SV Sr/Dis,0160008121226715,N/A,3219,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,21.20,Unlmtd,,Success
+14-Apr-16 17:13:21,Reg SV Regular,0160005031338390,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,26.50,Unlmtd,,Success
+14-Apr-16 17:14:00,Reg SV Regular,0160041888683349,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.25,Unlmtd,,Success
+14-Apr-16 17:15:43,Reg SV Regular,0160013025963421,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 17:29:22,Reg SV Regular,0160004856112477,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.00,Unlmtd,,Success
+14-Apr-16 17:34:28,Reg SV Regular,0160001072997509,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,23.95,Unlmtd,,Success
+14-Apr-16 17:37:03,Reg SV Regular,0160001640926485,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.25,Unlmtd,,Success
+14-Apr-16 17:37:07,Reg SV Regular,0160008092297752,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.25,Unlmtd,,Success
+14-Apr-16 18:02:33,Reg SV Regular,0160005377749598,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.50,Unlmtd,,Success
+14-Apr-16 18:06:12,Reg SV Regular,0160012000041344,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.50,Unlmtd,,Success
+14-Apr-16 18:06:16,EZ Pass AdultZ1,0160005843497756,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,214.60,Unlmtd,0,Success
+14-Apr-16 18:31:08,Reg SV Regular,0160008258605913,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.50,Unlmtd,,Success
+14-Apr-16 19:20:58,Reg SV Regular,0160007591080677,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.75,Unlmtd,,Success
+14-Apr-16 19:22:45,ASI,0160041938303047,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:32:46,Reg SV Regular,0160008359793311,N/A,3219,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 19:49:53,DCFS EZ (New),01701999280896241927,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:59:03,DCFS EZ (New),01701814897950224680,N/A,3219,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:23:40,Reg SV Regular,0160008334055836,N/A,3209,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.00,Unlmtd,,Success
+14-Apr-16 08:53:58,ASI,0160028110701239,N/A,3209,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:52:30,Reg SV Regular,0160022047145107,N/A,3209,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.50,Unlmtd,,Success
+14-Apr-16 10:26:05,ASI,0160041274202241,N/A,3209,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:15:45,Reg SV Regular,0160005817765592,N/A,3209,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.00,Unlmtd,,Success
+14-Apr-16 18:05:26,Reg SV Regular,0160005277587031,N/A,3209,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.00,Unlmtd,,Success
+14-Apr-16 18:16:05,ASI,0160033085939780,N/A,3209,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:27:54,ASI,0160033063888108,N/A,3209,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:46:46,ASI,0160033063888108,N/A,3209,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 05:45:42,EZ Pass AdultZ0,0160008252699672,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 06:19:35,ASI,0160041892660325,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 06:20:14,ASI,0160036514916436,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 06:37:29,Reg SV Regular,0160039950448245,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,14.00,Unlmtd,,Success
+14-Apr-16 06:41:32,ASI,0160005334490070,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:04:17,Reg SV Regular,0160005662299994,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.50,Unlmtd,,Success
+14-Apr-16 07:05:43,ASI,0160041273463208,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:08:41,Reg SV Regular,0160000384020240,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.65,Unlmtd,,Success
+14-Apr-16 07:43:34,ASI,0160005641208793,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:57:35,ASI,0160005503560471,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:00:17,Reg SV Regular,0160005107238235,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,49.95,Unlmtd,,Success
+14-Apr-16 08:07:20,Reg SV Sr/Dis,01700048820798255377,N/A,3295,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,9.30,Unlmtd,,Success
+14-Apr-16 08:24:14,DCFS EZ (New),01700885680433557769,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:42:03,ASI,0160005585591519,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:45:25,ASI,0160005654484638,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:05:10,Reg SV Regular,01700062976763654415,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.90,Unlmtd,,Success
+14-Apr-16 09:06:30,ASI,0160005328435354,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:14:02,Reg SV Regular,0160008237754394,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.15,Unlmtd,,Success
+14-Apr-16 09:19:40,ASI,0160005501131358,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:54:43,DCFS EZ (New),01700885680433557769,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:06:44,ASI,0160033065042183,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:13:43,ASI,0160005579565594,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:28:05,ASI,0160005326662231,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:06:32,ASI,0160005835283032,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:09:30,ASI,0160008199654236,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:33:31,ASI,0160008073815192,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:41:49,ASI,0160038273038352,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:54:52,ASI,0160008083878552,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:13:52,ASI,0160008143021912,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:18:40,Reg SV Regular,0160009163562397,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.50,Unlmtd,,Success
+14-Apr-16 12:20:47,ASI,0160005689042393,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:20:54,ASI,0160008199654236,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:54:07,ASI,0160012142146308,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:55:24,ASI,0160005751595997,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:56:06,ASI,0160036524949393,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:57:22,ASI,0160036514916436,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 13:00:40,ASI,0160028112222994,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:00:44,Reg SV Regular,0160001260085026,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.75,Unlmtd,,Success
+14-Apr-16 13:07:08,Reg SV Regular,0160005700719839,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.00,Unlmtd,,Success
+14-Apr-16 13:29:21,ASI,0160005596559513,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:37:11,EZ Pass S/D Z0,0160005893988316,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:40:07,ASI,0160005598969751,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:40:20,ASI,0160008084963676,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:53:36,Reg SV Regular,0160013797447280,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,24.75,Unlmtd,,Success
+14-Apr-16 13:54:30,EZ Pass S/D Z0,0160008891024514,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:02:23,EZ Pass S/D Z0,01702182065309118720,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 14:05:02,ASI,0160005587677910,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:05:04,ASI,0160020378727840,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:06:36,Reg SV Regular,0160005053906710,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.75,Unlmtd,,Success
+14-Apr-16 14:08:33,ASI,0160008084963676,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:19:03,ASI,0160028110442990,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:40:45,ASI,0160008105795354,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:44:40,ASI,0160028111406671,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:44:44,ASI,0160005597508634,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:44:58,ASI,0160038273293874,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:45:43,ASI,0160005565737751,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:08:25,Reg SV Student,0160005292123358,N/A,3295,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,1.00,Unlmtd,,Success
+14-Apr-16 15:08:44,Reg SV Student,0160008146566871,N/A,3295,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,21.50,Unlmtd,,Success
+14-Apr-16 15:09:06,ASI,0160011542638302,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:09:08,ASI,0160028112307159,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:16:01,ASI,0160005523155997,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:20:49,ASI,0160021185971845,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:21:19,Reg SV Regular,0160007651564511,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.50,Unlmtd,,Success
+14-Apr-16 15:31:47,ASI,0160020379405289,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:51:34,ASI,0160005585799195,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:57:40,ASI,0160005336136473,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:08:16,ASI,0160008118830230,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:14:31,ASI,0160019589209630,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:22:19,PS Try Tran Mon,0160039870581364,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:38:21,Reg SV Regular,0160005053920158,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.00,Unlmtd,,Success
+14-Apr-16 16:43:38,ASI,0160036514916436,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 17:09:39,ASI,0160005847711830,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:30:55,EZ Pass S/D Z0,0160005893988316,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:33:37,Reg SV Sr/Dis,0160012057458086,N/A,3295,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,9.35,Unlmtd,,Success
+14-Apr-16 17:39:06,Reg SV Regular,0160021593689203,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.75,Unlmtd,,Success
+14-Apr-16 17:48:11,Reg SV Regular,0160008377970719,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,23.50,Unlmtd,,Success
+14-Apr-16 17:50:17,ASI,0160041880281126,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:50:25,Reg SV Regular,0160008092297752,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.50,Unlmtd,,Success
+14-Apr-16 18:01:11,ASI,0160005501849751,N/A,3295,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:36:55,Reg SV Regular,0160000921241366,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.75,Unlmtd,,Success
+14-Apr-16 18:45:28,Reg SV Regular,0160008616328158,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,42.75,Unlmtd,,Success
+14-Apr-16 18:50:12,Reg SV Regular,0160005873163674,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.75,Unlmtd,,Success
+14-Apr-16 19:30:44,Reg SV Regular,0160008389632471,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.00,Unlmtd,,Success
+14-Apr-16 19:41:11,Reg SV Regular,0160008378413594,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.65,Unlmtd,,Success
+14-Apr-16 19:42:29,Reg SV Regular,0160005749102237,N/A,3295,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.75,Unlmtd,,Success
+14-Apr-16 05:58:41,Reg SV Regular,0160042861296240,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,17.50,Unlmtd,,Success
+14-Apr-16 06:13:25,EZ Pass S/D Z0,01702719592545808642,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.45,Unlmtd,0,Success
+14-Apr-16 06:55:00,Reg SV Regular,0160005843602710,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.00,Unlmtd,,Success
+14-Apr-16 07:15:58,Reg SV Regular,0160008159620193,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.75,Unlmtd,,Success
+14-Apr-16 07:18:46,ASI,0160005335010711,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:23:47,ASI,0160005292758559,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:26:37,ASI,0160008199654236,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:35:30,ASI,0160033079622343,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:52:11,EZ Pass AdultZ0,0160001767423761,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 08:59:20,ASI,0160038261859470,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:59:22,ASI,0160038261972752,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:59:27,ASI,0160008289261272,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:00:58,Reg SV Regular,0160008118966232,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,38.50,Unlmtd,,Success
+14-Apr-16 09:28:37,ASI,0160020982328803,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.08,Unlmtd,0,Success
+14-Apr-16 09:29:40,Reg SV Regular,0160008469931355,N/A,3224,SV Exit (Tag Off),,1,0.00,0.00,0.00,0.00,37.65,Unlmtd,,Success
+14-Apr-16 09:33:39,ASI,0160005722739997,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.00,Unlmtd,0,Success
+14-Apr-16 09:42:10,ASI,0160005808789593,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:01:06,ASI,0160005595999199,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:01:13,PS Try Tran Mon,0160039870430323,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,3.00,Unlmtd,0,Success
+14-Apr-16 10:06:23,ASI,0160005531952799,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:16:25,Reg SV Regular,0160008524367835,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.50,Unlmtd,,Success
+14-Apr-16 10:33:00,ASI,0160028100944112,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:45:36,ASI,0160036514436112,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:00:17,Reg SV Regular,0160005700719839,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.75,Unlmtd,,Success
+14-Apr-16 11:07:05,ASI,0160005326662231,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:15:43,ASI,0160011562053184,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:38:42,ASI,0160005585825750,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,3.00,Unlmtd,0,Success
+14-Apr-16 11:41:34,ASI,0160011562053184,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:48:23,ASI,0160033064689547,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:49:38,ASI,0160005689042393,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:54:44,ASI,0160008143021912,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:11:22,ASI,0160012139093349,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:13:28,ASI,0160028111223951,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:15:36,ASI,0160005508201758,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:17:11,ASI,0160008087670872,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:17:14,ASI,0160008106691354,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:22:05,ASI,0160036524949393,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:22:08,Reg SV Sr/Dis,0160033545720135,N/A,3224,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,5.15,Unlmtd,,Success
+14-Apr-16 12:24:07,Reg SV Regular,0160018804876405,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,40.75,Unlmtd,,Success
+14-Apr-16 12:27:02,ASI,0160020836942726,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:47:44,ASI,0160008077561438,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:48:07,Reg SV Regular,0160008480675353,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.75,Unlmtd,,Success
+14-Apr-16 12:48:56,ASI,0160033083177060,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:51:00,ASI,0160005499189277,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.50,Unlmtd,0,Success
+14-Apr-16 12:52:07,ASI,0160005755874075,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:52:13,ASI,0160005645732954,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:03:46,ASI,0160008143170719,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:22:20,ASI,0160008139195670,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:31:47,ASI,0160005781193433,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:41:32,Reg SV Regular,0160021593689203,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.50,Unlmtd,,Success
+14-Apr-16 13:51:56,ASI,0160033081222983,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:54:03,ASI,0160005290219034,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:59:13,Reg SV Regular,0160001583189661,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.60,Unlmtd,,Success
+14-Apr-16 13:59:36,ASI,0160005622624794,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:04:34,ASI,0160005680385759,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:26:50,ASI,0160011542767903,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:31:12,ASI,0160005335455510,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:31:51,ASI,0160008087656475,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:49:39,Reg SV College,0160005504665436,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.00,Unlmtd,,Success
+14-Apr-16 14:53:10,ASI,0160038262206838,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:00:25,ASI,0160011543715745,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:21:25,ASI,0160005499038235,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:21:28,Reg SV Sr/Dis,0160005499038235,N/A,3224,No Prod Use Type,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Passback
+14-Apr-16 15:44:33,ASI,0160011542575900,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:44:45,ASI,0160012139093349,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:45:59,ASI,0160005290219034,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:48:55,Reg SV Regular,0160008339895830,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.00,Unlmtd,,Success
+14-Apr-16 15:56:13,Reg SV Sr/Dis,0160008126174233,N/A,3224,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,15.20,Unlmtd,,Success
+14-Apr-16 16:12:56,Reg SV Sr/Dis,0160008289264797,N/A,3224,Hotlisted - Reject Everywhere,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Hotlisted - Reject
+14-Apr-16 16:21:40,Reg SV Regular,0160004981042714,N/A,3224,SV Exit (Tag Off),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,,Success
+14-Apr-16 16:28:50,ASI,0160008083878552,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:54:21,Reg SV Regular,0160024513899126,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,24.75,Unlmtd,,Success
+14-Apr-16 16:54:23,Reg SV Regular,0160008008179714,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.50,Unlmtd,,Success
+14-Apr-16 16:55:17,Reg SV Regular,0160005256610713,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.00,Unlmtd,,Success
+14-Apr-16 16:56:49,ASI,0160036514916436,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 17:04:37,ASI,0160005587593752,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:05:40,Reg SV Regular,0160005115867991,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,18.75,Unlmtd,,Success
+14-Apr-16 17:08:29,Reg SV Regular,0160008743356544,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.00,Unlmtd,,Success
+14-Apr-16 17:10:51,EZ Pass AdultZ0,0160015388646006,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:15:49,ASI,0160021205010723,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:25:47,Reg SV Student,0160010160562885,N/A,3224,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,47.00,Unlmtd,,Success
+14-Apr-16 17:36:35,ASI,0160005648339351,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:39:01,Reg SV Regular,0160008215704791,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.75,Unlmtd,,Success
+14-Apr-16 17:40:00,ASI,0160011561715429,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:17:58,ASI,0160005290219034,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:27:24,DCFS EZ (New),01701999280896241927,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:31:50,Reg SV Sr/Dis,0160005808940311,N/A,3224,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,7.40,Unlmtd,,Success
+14-Apr-16 18:31:59,EZ Pass AdultZ0,0160007945755396,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.15,Unlmtd,0,Success
+14-Apr-16 18:34:43,ASI,0160021186809127,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:34:52,Reg SV Regular,0160008333978715,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,34.25,Unlmtd,,Success
+14-Apr-16 18:35:56,ASI,0160041273363689,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:36:29,ASI,0160005337091677,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:28:17,Reg SV Regular,0160041792608887,N/A,3224,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,68.75,Unlmtd,,Success
+14-Apr-16 19:35:50,ASI,0160036515043792,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:40:44,ASI,0160038272927316,N/A,3224,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:21:33,ASI,0160028112222994,N/A,2210,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:30:55,Reg SV Regular,0160005082227351,N/A,2210,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.50,Unlmtd,,Success
+14-Apr-16 15:39:21,ASI,0160005338252310,N/A,2210,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:49:15,EZ Pass AdultZ0,0160008154032543,N/A,2210,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,9.80,Unlmtd,0,Success
+14-Apr-16 15:49:17,EZ Pass AdultZ0,0160018895915120,N/A,2210,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,4.75,Unlmtd,0,Success
+14-Apr-16 15:51:54,ASI,0160028110442990,N/A,2210,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:53:54,ASI,0160005335046558,N/A,2210,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:53:45,Reg SV Regular,0160039818741369,N/A,3054,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.00,Unlmtd,,Success
+14-Apr-16 06:29:18,Reg SV Sr/Dis,0160005369075994,N/A,3297,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,10.60,Unlmtd,,Success
+14-Apr-16 07:13:11,Reg SV Regular,0160007924925796,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.25,Unlmtd,,Success
+14-Apr-16 07:15:40,DCFS EZ (New),01702800458726928643,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:35:01,ASI,0160008141039510,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:36:00,ASI,0160008072337750,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:38:16,Reg SV Regular,0160008237273502,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,26.25,Unlmtd,,Success
+14-Apr-16 07:38:17,DCFS EZ (New),01701759879419162922,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:30:22,Reg SV Regular,0160008516758231,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.65,Unlmtd,,Success
+14-Apr-16 08:42:56,ASI,0160008119602398,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:45:26,Reg SV Regular,0160001536735263,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,34.75,Unlmtd,,Success
+14-Apr-16 08:57:03,ASI,0160036524990678,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:27:22,Reg SV Regular,0160001536735263,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,34.00,Unlmtd,,Success
+14-Apr-16 10:08:42,EZ Pass S/D Z0,0160001785491170,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:27:24,ASI,0160033079020589,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:37:27,ASI,0160036515543312,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:41:26,ASI,0160005782701598,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:42:43,Reg SV Regular,0160039993610694,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.70,Unlmtd,,Success
+14-Apr-16 10:48:52,ASI,0160033083850021,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:55:40,Reg SV Regular,0160005624024159,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.00,Unlmtd,,Success
+14-Apr-16 11:00:42,Reg SV Regular,0160004973488479,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.00,Unlmtd,,Success
+14-Apr-16 11:00:49,ASI,0160011562053184,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:05:18,Reg SV Regular,0160008243817433,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.75,Unlmtd,,Success
+14-Apr-16 11:53:08,ASI,0160005565737751,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:03:13,Reg SV Regular,0160008323106392,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.25,Unlmtd,,Success
+14-Apr-16 12:08:20,ASI,0160028112222994,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:51:27,ASI,0160005584936152,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:55:30,ASI,0160028112222994,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:57:12,ASI,0160011542093185,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:01:17,ASI,0160005586192796,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:11:39,ASI,0160005586515038,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:57:05,DCFS EZ (New),01702327757310685442,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:19:18,ASI,0160011542093185,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:21:05,ASI,0160041274422245,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:41:52,EZ Pass AdultZ0,0160004821248471,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 14:47:39,Reg SV Regular,0160000903513667,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.25,Unlmtd,,Success
+14-Apr-16 15:09:05,ASI,0160005288127199,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:15:37,ASI,0160005579532313,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:22:29,Reg SV Regular,0160007924925796,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.50,Unlmtd,,Success
+14-Apr-16 15:22:36,ASI,0160021186034403,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:33:24,ASI,0160019691652990,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:35:09,Reg SV Regular,0160040769341043,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.25,Unlmtd,,Success
+14-Apr-16 16:28:17,Reg SV Regular,0160005520411039,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.25,Unlmtd,,Success
+14-Apr-16 16:28:20,ASI,0160033064099945,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:40:47,ASI,0160005596374236,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:06:42,Reg SV Regular,01700948424537043201,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,45.25,Unlmtd,,Success
+14-Apr-16 17:14:54,Reg SV Regular,0160005695659354,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.25,Unlmtd,,Success
+14-Apr-16 17:38:53,ASI,0160005579532313,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:38:56,ASI,0160008117347350,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:16:29,EZ Pass AdultZ0,0160023203717101,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.05,Unlmtd,0,Success
+14-Apr-16 18:16:46,Reg SV Regular,0160008366631835,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,18.75,Unlmtd,,Success
+14-Apr-16 18:17:37,EZ Pass S/D Z0,0160005893988316,N/A,3297,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:24:48,Reg SV Regular,0160005521064795,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.50,Unlmtd,,Success
+14-Apr-16 18:24:51,Reg SV Regular,0160008578578071,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,30.75,Unlmtd,,Success
+14-Apr-16 18:35:37,Reg SV Regular,0160008450674717,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.25,Unlmtd,,Success
+14-Apr-16 19:39:33,Reg SV Regular,0160004867235671,N/A,3297,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,34.50,Unlmtd,,Success
+14-Apr-16 06:48:01,ASI,0160005758734235,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,8.05,Unlmtd,0,Success
+14-Apr-16 07:03:40,Reg SV Regular,0160008323106392,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.75,Unlmtd,,Success
+14-Apr-16 07:07:08,ASI,0160005334705113,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:22:42,Reg SV Regular,0160007882152037,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.75,Unlmtd,,Success
+14-Apr-16 07:43:34,ASI,0160005782701598,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:43:37,ASI,0160008120238877,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:00:32,Reg SV Regular,0160041781838966,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.25,Unlmtd,,Success
+14-Apr-16 08:00:35,Reg SV Regular,0160005521064795,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,14.25,Unlmtd,,Success
+14-Apr-16 08:01:34,ASI,0160028112134199,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:37:19,Reg SV Regular,0160008254372310,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.25,Unlmtd,,Success
+14-Apr-16 08:40:59,Reg SV Regular,0160008127976792,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,48.15,Unlmtd,,Success
+14-Apr-16 08:43:40,Reg SV Regular,0160008450674717,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.50,Unlmtd,,Success
+14-Apr-16 08:48:40,ASI,0160005507549272,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:31:46,ASI,0160005782701598,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:31:49,ASI,0160005523155997,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:35:33,Reg SV Regular,0160005602820636,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,44.00,Unlmtd,,Success
+14-Apr-16 15:36:25,Reg SV Regular,0160005602820636,N/A,3218,No Prod Use Type,,1,0.00,0.00,0.00,0.00,44.00,Unlmtd,,Passback
+14-Apr-16 15:36:50,Reg SV Regular,0160008243712477,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.50,Unlmtd,,Success
+14-Apr-16 15:54:35,ASI,0160005523155997,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:21:53,ASI,0160005715859034,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.75,Unlmtd,0,Success
+14-Apr-16 16:38:16,ASI,0160005751595997,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:39:29,Reg SV Regular,0160008323106392,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.50,Unlmtd,,Success
+14-Apr-16 16:40:27,ASI,0160005499038235,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:01:13,ASI,0160042245274087,N/A,3218,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:27:47,Reg SV Regular,0160008490883997,N/A,3218,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.50,Unlmtd,,Success
+14-Apr-16 12:28:54,ASI,0160019589121959,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:52:07,EZ Pass AdultZ0,0160026529713381,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:53:18,ASI,0160020378419844,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:39:25,ASI,0160019692533314,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:16:38,ASI,0160019692533314,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:19:53,ASI,0160041879602084,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:19:55,ASI,0160008087656475,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:25:51,ASI,0160041279880967,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:27:26,ASI,0160036514838671,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:27:52,ASI,0160008199654236,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:35:44,ASI,0160036514266030,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:46:56,ASI,0160041880365127,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:19:40,ASI,0160011560665666,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:21:21,ASI,0160011542575900,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:21:34,ASI,0160005334822876,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:09:03,Reg SV Regular,0160008282197630,N/A,3296,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.00,Unlmtd,,Success
+14-Apr-16 16:41:23,Reg SV Regular,0160008307117472,N/A,3296,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.00,Unlmtd,,Success
+14-Apr-16 16:57:05,ASI,0160008108501270,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:10:52,ASI,0160008050465961,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:22:34,Reg SV Regular,0160005788380637,N/A,3296,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,54.25,Unlmtd,,Success
+14-Apr-16 18:42:38,ASI,0160011832749348,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:50:58,ASI,0160033081222983,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:34:31,ASI,0160008118500957,N/A,3296,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 06:35:17,Reg SV Regular,0160005650780633,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.25,Unlmtd,,Success
+14-Apr-16 07:12:58,Reg SV Regular,0160030209991283,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,26.00,Unlmtd,,Success
+14-Apr-16 08:12:51,ASI,0160005510283034,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:46:02,Reg SV Regular,0160005613203038,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,42.00,Unlmtd,,Success
+14-Apr-16 08:58:17,ASI,0160005530032478,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:32:20,ASI,0160005911240476,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:59:36,Reg SV Regular,0160000949255448,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.25,Unlmtd,,Success
+14-Apr-16 09:59:39,Reg SV Regular,0160000921241366,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.25,Unlmtd,,Success
+14-Apr-16 10:03:09,ASI,0160005536206233,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.25,Unlmtd,0,Success
+14-Apr-16 10:10:20,ASI,0160005328435354,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:59:51,Reg SV Regular,0160008158218718,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.00,Unlmtd,,Success
+14-Apr-16 11:19:00,ASI,0160041938303047,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:21:52,ASI,0160041892672320,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:59:42,ASI,0160008049632689,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:01:30,Reg SV Regular,0160001048283927,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,34.50,Unlmtd,,Success
+14-Apr-16 12:01:30,Reg SV Regular,0160001048283927,6,3293,SV Directed Autoload,,1,20.00,0.00,20.00,20.00,35.25,,,Success
+14-Apr-16 12:13:54,ASI,0160008117347350,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:29:24,ASI,0160008090141275,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:02:10,ASI,0160008120238877,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:04:17,Reg SV College,01701512823505056000,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.00,Unlmtd,,Success
+14-Apr-16 13:19:17,ASI,0160020982328803,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.08,Unlmtd,0,Success
+14-Apr-16 13:20:28,Reg SV Sr/Dis,0160008121226715,N/A,3293,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,21.55,Unlmtd,,Success
+14-Apr-16 13:32:55,Reg SV Regular,0160003014924708,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.80,Unlmtd,,Success
+14-Apr-16 15:19:34,Reg SV Sr/Dis,0160005620768155,N/A,3293,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,3.75,Unlmtd,,Success
+14-Apr-16 15:46:39,ASI,0160008106691354,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:04:07,Reg SV Regular,0160005377749598,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.25,Unlmtd,,Success
+14-Apr-16 16:07:05,Reg SV Regular,0160001342573668,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,116.30,Unlmtd,,Success
+14-Apr-16 16:16:52,Reg SV Regular,0160008206419672,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.75,Unlmtd,,Success
+14-Apr-16 16:22:52,ASI,0160005536206233,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.25,Unlmtd,0,Success
+14-Apr-16 16:28:10,ASI,0160004975267673,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:09:36,ASI,0160004975267673,N/A,3293,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:47:58,Reg SV Regular,0160005595465118,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.50,Unlmtd,,Success
+14-Apr-16 17:48:50,Reg SV Regular,0160005613203038,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,41.25,Unlmtd,,Success
+14-Apr-16 18:06:49,Reg SV Regular,0160041858585201,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.25,Unlmtd,,Success
+14-Apr-16 18:57:04,Reg SV Regular,0160005371102877,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,29.50,Unlmtd,,Success
+14-Apr-16 18:58:10,Reg SV Regular,0160008158218718,N/A,3293,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.25,Unlmtd,,Success
+14-Apr-16 06:28:22,Reg SV Student,0160005346064475,N/A,3298,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,1.00,Unlmtd,,Success
+14-Apr-16 06:28:27,Reg SV Regular,0160013032477340,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.25,Unlmtd,,Success
+14-Apr-16 07:22:34,ASI,0160005334705113,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:38:17,Reg SV Sr/Dis,0160005622305758,N/A,3298,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,1.40,Unlmtd,,Success
+14-Apr-16 07:40:36,Reg SV Regular,0160008292976791,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.50,Unlmtd,,Success
+14-Apr-16 08:18:15,ASI,0160008109794072,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:20:45,ASI,0160033064617860,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:45:18,Reg SV Regular,0160008417593117,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,100.50,Unlmtd,,Success
+14-Apr-16 09:07:01,ASI,0160005857960798,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:07:07,Reg SV Regular,0160005592352152,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.00,Unlmtd,,Success
+14-Apr-16 09:21:44,DCFS EZ (New),01702811453843206400,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:52:32,DCFS EZ (New),01702206811031630082,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:52:49,ASI,0160005622624794,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:03:54,ASI,0160012139331426,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.75,Unlmtd,0,Success
+14-Apr-16 10:07:59,ASI,0160005586531670,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.75,Unlmtd,0,Success
+14-Apr-16 10:21:12,ASI,0160005533707993,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:21:14,ASI,0160005501131358,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:00:33,ASI,0160034019184642,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:31:40,ASI,0160005565737751,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:46:23,ASI,0160005808789593,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:49:43,Reg SV Regular,0160008465274073,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.85,Unlmtd,,Success
+14-Apr-16 12:54:14,ASI,0160041879602084,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:54:18,ASI,0160033064689547,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:18:43,EZ Pass S/D Z0,0160005441137754,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:23:36,Reg SV Regular,0160008307485598,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.50,Unlmtd,,Success
+14-Apr-16 13:28:09,ASI,0160041938303047,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:33:47,ASI,0160033064689547,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:37:48,ASI,0160005501131358,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:37:59,ASI,0160008109794072,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:38:08,ASI,0160019589762273,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:38:10,Reg SV Regular,0160008363654236,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.90,Unlmtd,,Success
+14-Apr-16 13:38:36,Reg SV Regular,0160008363654236,N/A,3298,No Prod Use Type,,1,0.00,0.00,0.00,0.00,16.90,Unlmtd,,Passback
+14-Apr-16 13:38:40,Reg SV Regular,0160008363654236,N/A,3298,No Prod Use Type,,1,0.00,0.00,0.00,0.00,16.90,Unlmtd,,Passback
+14-Apr-16 13:44:39,ASI,0160012372224866,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:49:31,ASI,0160005509026394,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:16:16,Reg SV Regular,0160007905121951,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.50,Unlmtd,,Success
+14-Apr-16 14:18:48,Reg SV Regular,0160008116370395,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.75,Unlmtd,,Success
+14-Apr-16 14:32:16,EZ Pass AdultZ0,0160008237212633,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:39:21,ASI,0160005509026394,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:39:25,ASI,0160028111979958,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:43:15,ASI,0160005598570070,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:47:13,Reg SV Regular,0160001306195581,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,276.00,Unlmtd,,Success
+14-Apr-16 14:47:50,Reg SV Regular,0160008245837918,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.35,Unlmtd,,Success
+14-Apr-16 14:53:02,ASI,0160028112222994,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:09:08,ASI,0160008172194713,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:20:51,ASI,0160005335683038,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:21:01,Reg SV Regular,0160008578578071,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,31.50,Unlmtd,,Success
+14-Apr-16 15:22:13,ASI,0160005334490070,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:33:04,ASI,0160005292758559,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:39:38,EZ Pass AdultZ0,0160013260967426,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:04:27,EZ Pass AdultZ0,01701338714926117129,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:13:58,Reg SV Regular,01702637476797640961,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.50,Unlmtd,,Success
+14-Apr-16 16:15:04,ASI,0160038273293874,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:16:55,ASI,0160019691700518,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:16:58,ASI,0160008073627670,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:25:20,Reg SV Regular,0160013123090622,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.25,Unlmtd,,Success
+14-Apr-16 16:25:23,Reg SV Regular,0160008300661823,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.75,Unlmtd,,Success
+14-Apr-16 16:25:33,ASI,0160005583754077,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:35:03,EZ Pass AdultZ0,0160008154032543,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,9.80,Unlmtd,0,Success
+14-Apr-16 16:35:04,EZ Pass AdultZ0,0160018895915120,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,4.75,Unlmtd,0,Success
+14-Apr-16 16:43:42,ASI,0160005595999199,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:10:23,ASI,0160041879982726,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:10:31,ASI,0160021185247204,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:18:56,Reg SV Regular,0160005446787678,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.00,Unlmtd,,Success
+14-Apr-16 17:39:14,ASI,0160038262463157,N/A,3298,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:57:16,Reg SV Regular,0160005788380637,N/A,3298,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,55.00,Unlmtd,,Success
+14-Apr-16 06:10:43,EZ Pass AdultZ0,0160002610954465,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 06:13:10,Reg SV Regular,0160005528431518,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,36.50,Unlmtd,,Success
+14-Apr-16 06:34:37,Reg SV Regular,0160009162188319,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.75,Unlmtd,,Success
+14-Apr-16 06:35:22,Reg SV Regular,0160007618942594,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.75,Unlmtd,,Success
+14-Apr-16 07:04:03,Reg SV Regular,0160000513210647,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,52.75,Unlmtd,,Success
+14-Apr-16 07:08:39,Reg SV Regular,0160005082227351,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.25,Unlmtd,,Success
+14-Apr-16 07:27:35,Reg SV Regular,0160008743356544,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.75,Unlmtd,,Success
+14-Apr-16 07:40:50,Reg SV Regular,0160008074239194,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.50,Unlmtd,,Success
+14-Apr-16 07:40:53,ASI,0160005808170075,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:01:21,ASI,0160005327157918,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:03:11,Reg SV Regular,0160005521566872,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.75,Unlmtd,,Success
+14-Apr-16 08:41:19,ASI,0160008034261486,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.50,Unlmtd,0,Success
+14-Apr-16 08:46:02,EZ Pass AD Repl,01700964317258215686,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:49:06,ASI,0160005741049758,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:54:34,ASI,0160005510594398,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:06:26,ASI,0160005834321437,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:06:32,ASI,0160008105637911,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:07:40,ASI,0160005584782879,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:09:51,ASI,0160005833766871,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:10:29,ASI,0160005598570393,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:16:00,ASI,0160012141708702,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.35,Unlmtd,0,Success
+14-Apr-16 09:16:35,Reg SV Regular,0160005277962713,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,30.15,Unlmtd,,Success
+14-Apr-16 09:17:57,Reg SV Regular,0160009162188319,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.00,Unlmtd,,Success
+14-Apr-16 09:19:08,ASI,0160008050024362,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:30:38,ASI,0160005579565594,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:36:48,Reg SV Regular,0160005636236312,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.00,Unlmtd,,Success
+14-Apr-16 09:47:46,ASI,0160005586927191,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:25:28,ASI,0160019588930756,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:29:13,ASI,0160020379405289,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:32:00,EZ Pass AdultZ0,0160012438125685,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:34:34,ASI,0160028112307159,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:35:06,ASI,0160033064689547,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:35:09,Reg SV Regular,0160005353188951,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.25,Unlmtd,,Success
+14-Apr-16 10:54:15,Reg SV Regular,0160008532623195,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.00,Unlmtd,,Success
+14-Apr-16 10:54:19,ASI,0160028111880594,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:07:11,ASI,0160008075691724,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:07:49,ASI,0160033064911461,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:14:00,ASI,0160005640691353,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:14:42,Reg SV Sr/Dis,0160010338303303,N/A,3292,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,18.70,Unlmtd,,Success
+14-Apr-16 11:21:43,ASI,0160012373500868,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:32:24,ASI,0160005586927191,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:33:23,ASI,0160005648339351,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:46:12,ASI,0160011543715745,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:50:24,ASI,0160005835283032,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:52:58,ASI,0160020379405289,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:39:30,ASI,0160019589490115,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:53:43,ASI,0160019589762273,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:02:42,ASI,0160005585825750,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,3.00,Unlmtd,0,Success
+14-Apr-16 13:19:45,ASI,0160005863538398,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:26:12,Reg SV Regular,0160008675895519,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 13:26:15,Reg SV Regular,0160008326539995,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.50,Unlmtd,,Success
+14-Apr-16 13:26:19,ASI,0160008109794072,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:31:11,ASI,0160005501131358,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:35:54,ASI,0160008199654236,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:40:21,Reg SV Regular,0160008143820701,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.00,Unlmtd,,Success
+14-Apr-16 13:56:31,EZ Pass AdultZ0,0160008237212633,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:00:42,ASI,0160028112694671,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:03:33,Reg SV Sr/Dis,0160005807934877,N/A,3292,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,2.60,Unlmtd,,Success
+14-Apr-16 14:10:59,Reg SV Sr/Dis,0160005620768155,N/A,3292,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,4.10,Unlmtd,,Success
+14-Apr-16 14:12:32,ASI,0160028110348916,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:16:45,ASI,0160005533707993,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:23:39,Reg SV Regular,0160040769341043,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.00,Unlmtd,,Success
+14-Apr-16 14:34:37,Reg SV Sr/Dis,0160026608500618,N/A,3292,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,0.70,Unlmtd,,Success
+14-Apr-16 15:01:33,Reg SV Regular,0160008523574878,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.25,Unlmtd,,Success
+14-Apr-16 15:03:31,ASI,0160005584278878,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:12:17,ASI,0160008199654236,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:36:31,ASI,0160021205010723,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:39:21,ASI,0160028110348916,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:40:51,ASI,0160012371694622,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:24:36,Reg SV Regular,0160040278087285,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.75,Unlmtd,,Success
+14-Apr-16 16:43:21,Reg SV Sr/Dis,0160008126174233,N/A,3292,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,14.85,Unlmtd,,Success
+14-Apr-16 16:44:46,EZ Pass AdultZ1,0160005843497756,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,214.60,Unlmtd,0,Success
+14-Apr-16 16:47:52,Reg SV Sr/Dis,01702083023363272966,N/A,3292,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,18.95,Unlmtd,,Success
+14-Apr-16 16:49:25,Reg SV Regular,0160002230315584,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.00,Unlmtd,,Success
+14-Apr-16 16:49:39,DCFS EZ (New),01700691076807553282,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:56:03,Reg SV Regular,0160008526516637,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.50,Unlmtd,,Success
+14-Apr-16 16:57:39,ASI,0160041892660325,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:57:41,ASI,0160005685577434,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:59:28,ASI,0160028112222994,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:03:11,Reg SV Regular,0160008205694143,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.50,Unlmtd,,Success
+14-Apr-16 17:25:50,Reg SV Regular,0160013123090622,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.50,Unlmtd,,Success
+14-Apr-16 17:27:26,ASI,0160041892507682,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:29:15,ASI,0160005664652315,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:29:21,ASI,0160005334822876,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:29:24,ASI,0160005701907672,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:31:01,ASI,0160008172194713,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:40:20,Reg SV Regular,0160008118966232,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,37.75,Unlmtd,,Success
+14-Apr-16 17:51:02,Reg SV Regular,0160008233947992,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.05,Unlmtd,,Success
+14-Apr-16 18:00:12,Reg SV Regular,0160005392717919,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,17.90,Unlmtd,,Success
+14-Apr-16 18:01:02,EZ Pass S/D Z0,0160005899812312,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:03:55,ASI,0160028111223951,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:06:47,Reg SV Regular,0160005817950236,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.65,Unlmtd,,Success
+14-Apr-16 19:38:53,ASI,0160038262012756,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:57:20,Reg SV Regular,0160008235825436,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.50,Unlmtd,,Success
+14-Apr-16 20:01:11,ASI,0160005652515672,N/A,3292,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.25,Unlmtd,0,Success
+14-Apr-16 20:01:16,Reg SV Regular,0160005032118551,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.00,Unlmtd,,Success
+14-Apr-16 20:03:35,Reg SV Regular,0160008127169117,N/A,3292,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.50,Unlmtd,,Success
+14-Apr-16 07:30:25,EZ Pass AdultZ0,0160008448430875,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.50,Unlmtd,0,Success
+14-Apr-16 07:30:29,Reg SV Regular,01701397702253768968,N/A,3220,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,25.75,Unlmtd,,Success
+14-Apr-16 08:18:39,PS CTW,0160004905880793,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:48:22,ASI,0160028111979958,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:19:08,ASI,0160036514916436,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 09:24:38,ASI,0160005533707993,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:50:25,ASI,0160008064166449,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:50:27,ASI,0160019692198910,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:54:11,ASI,0160019589762273,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:30:34,ASI,0160005678225439,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:34:43,ASI,0160005585799195,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:39:43,ASI,0160005597508634,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:47:47,ASI,0160008073276312,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:29:19,DCFS EZ (New),01702811453843206400,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:40:51,ASI,0160008073276312,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:51:08,ASI,0160028110442990,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:52:17,Reg SV Sr/Dis,0160026588419813,N/A,3220,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,4.70,Unlmtd,,Success
+14-Apr-16 12:30:32,DCFS EZ (New),01702032867540496647,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:43:07,Reg SV Regular,0160008564939030,N/A,3220,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.00,Unlmtd,,Success
+14-Apr-16 12:46:54,ASI,0160019589121959,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:56:03,ASI,0160005808789593,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:09:43,ASI,0160008280931030,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:09:47,ASI,0160041880281126,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:10:04,ASI,0160008199654236,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:12:31,ASI,0160036514838671,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:15:20,ASI,0160012142146308,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:43:16,ASI,0160036514266030,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:10:57,ASI,0160008141869593,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:13:30,Reg SV Regular,0160001477238624,N/A,3220,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.50,Unlmtd,,Success
+14-Apr-16 14:31:52,ASI,0160005292758559,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:36:49,ASI,0160008067886126,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:39:59,ASI,0160005499683030,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:40:17,ASI,0160005585799195,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:09:57,ASI,0160005292758559,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:27:26,EZ Pass AdultZ0,0160008448430875,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.50,Unlmtd,0,Success
+14-Apr-16 16:31:16,Reg SV Regular,0160002529550784,N/A,3220,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.75,Unlmtd,,Success
+14-Apr-16 16:32:11,ASI,0160005586917598,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:50:03,ASI,0160019588930756,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:39:38,Reg SV Regular,01701397702253768968,N/A,3220,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,25.00,Unlmtd,,Success
+14-Apr-16 18:36:50,Reg SV Regular,0160008114242398,N/A,3220,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.25,Unlmtd,,Success
+14-Apr-16 19:00:52,EZ Pass AdultZ0,0160008673203997,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:16:41,ASI,0160033081222983,N/A,3220,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 06:55:16,Reg SV Regular,0160001493275923,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,18.00,Unlmtd,,Success
+14-Apr-16 07:19:05,Reg SV Student,0160010160562885,N/A,3225,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,47.50,Unlmtd,,Success
+14-Apr-16 07:19:07,Reg SV Student,0160020362141396,N/A,3225,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,42.50,Unlmtd,,Success
+14-Apr-16 07:52:47,Reg SV Sr/Dis,0160005687984158,N/A,3225,Hotlisted - Reject Everywhere,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Hotlisted - Reject
+14-Apr-16 08:23:40,ASI,0160005327329756,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:23:42,ASI,0160005649035032,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:23:44,ASI,0160005586927191,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:26:31,ASI,0160005688457113,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:27:13,ASI,0160005755874075,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:27:16,ASI,0160005565737751,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:40:52,ASI,0160005509020314,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:02:25,EZ Pass AdultZ0,0160007662158113,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:28:43,Reg SV Regular,0160005421506077,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.80,Unlmtd,,Success
+14-Apr-16 09:32:27,ASI,0160041879602084,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:34:15,ASI,0160036515261071,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:38:05,ASI,0160005722739997,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.00,Unlmtd,0,Success
+14-Apr-16 09:39:18,ASI,0160028111060270,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:39:32,ASI,0160008073815192,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:43:47,ASI,0160008120238877,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:57:28,ASI,0160021205010723,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:07:47,Reg SV Regular,01700686866397425926,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.75,Unlmtd,,Success
+14-Apr-16 10:35:50,EZ Pass AdultZ0,0160008256104158,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:37:31,Reg SV Regular,0160004867235671,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,35.25,Unlmtd,,Success
+14-Apr-16 10:40:13,ASI,0160041279203681,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:40:17,ASI,0160011561720866,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:40:22,ASI,0160038262388917,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:41:15,ASI,0160012372224866,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:05:46,Reg SV Regular,0160002377718467,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.50,Unlmtd,,Success
+14-Apr-16 11:49:58,ASI,0160005579600151,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:50:13,Reg SV Sr/Dis,0160005808940311,N/A,3225,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,7.90,Unlmtd,,Success
+14-Apr-16 11:52:36,Reg SV Regular,0160004903346078,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.65,Unlmtd,,Success
+14-Apr-16 11:59:14,ASI,0160005585825750,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,3.00,Unlmtd,0,Success
+14-Apr-16 12:34:30,ASI,0160005327329756,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:34:32,ASI,0160005649035032,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:38:55,ASI,0160008075221274,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:59:59,ASI,0160041273363689,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:02:59,ASI,0160005336632794,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:06:18,Reg SV Regular,0160000964874008,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.75,Unlmtd,,Success
+14-Apr-16 13:17:00,ASI,0160011543715745,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:53:13,ASI,0160041938303047,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:31:43,ASI,0160008034196526,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:54:19,ASI,0160011543600541,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.00,Unlmtd,0,Success
+14-Apr-16 14:57:51,ASI,0160005413556312,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:23:00,ASI,0160008172194713,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:25:55,ASI,0160005622624794,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:29:52,Reg SV Regular,0160008348276634,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.50,Unlmtd,,Success
+14-Apr-16 15:37:27,ASI,0160038273038352,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:39:40,ASI,0160021186809127,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:39:54,Reg SV Regular,0160009162188319,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.25,Unlmtd,,Success
+14-Apr-16 15:41:06,ASI,0160011832878626,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:56:45,ASI,0160005584622232,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:58:00,EZ Pass S/D Z1,0160005319641754,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:07:22,Reg SV Regular,0160008401866750,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.00,Unlmtd,,Success
+14-Apr-16 16:09:01,Reg SV Regular,0160042861296240,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.00,Unlmtd,,Success
+14-Apr-16 16:10:14,ASI,0160028111406671,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:21:55,ASI,0160005413556312,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:26:12,ASI,0160005335046558,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:40:58,Reg SV Sr/Dis,0160005852467039,N/A,3225,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,9.15,Unlmtd,,Success
+14-Apr-16 16:41:01,ASI,0160005585933919,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:41:17,ASI,0160005833766871,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:44:50,EZ Pass AdultZ0,0160018895915120,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,4.75,Unlmtd,0,Success
+14-Apr-16 16:44:52,EZ Pass AdultZ0,0160008154032543,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,9.80,Unlmtd,0,Success
+14-Apr-16 16:44:59,ASI,0160005688457113,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:46:12,ASI,0160019691700518,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:48:24,ASI,0160005786001755,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:52:16,Reg SV Regular,0160008464224152,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,42.00,Unlmtd,,Success
+14-Apr-16 16:57:54,DCFS EZ (New),01701017321181180160,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:57:57,ASI,0160033065042183,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:10:44,Reg SV Regular,0160008398507037,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.25,Unlmtd,,Success
+14-Apr-16 17:15:24,Reg SV Regular,0160008179553119,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,25.40,Unlmtd,,Success
+14-Apr-16 17:20:12,Reg SV Regular,0160005090641759,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.50,Unlmtd,,Success
+14-Apr-16 17:22:08,Reg SV Regular,0160015088951920,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.40,Unlmtd,,Success
+14-Apr-16 17:24:37,EZ Pass AdultZ0,0160008453103839,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 17:26:09,ASI,0160005753971352,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:31:45,ASI,0160028112222994,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:00:15,ASI,0160005780944471,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:02:56,Reg SV Regular,0160008114518870,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.25,Unlmtd,,Success
+14-Apr-16 18:11:22,Reg SV Regular,0160005544493914,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.75,Unlmtd,,Success
+14-Apr-16 18:24:47,Reg SV Regular,0160008074239194,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.00,Unlmtd,,Success
+14-Apr-16 18:24:58,ASI,0160005509051996,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:27:45,ASI,0160008087670872,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:27:47,EZ Pass AdultZ0,0160008615829594,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:27:50,Reg SV Regular,0160008540013918,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.75,Unlmtd,,Success
+14-Apr-16 18:27:51,Reg SV Regular,0160008333690393,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,18.50,Unlmtd,,Success
+14-Apr-16 18:40:45,ASI,0160005510594398,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:05:06,ASI,0160041938303047,N/A,3225,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:22:40,Reg SV Regular,0160008139401318,N/A,3225,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.25,Unlmtd,,Success
+14-Apr-16 07:18:20,Reg SV Student,0160008169899670,N/A,3058,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,5.00,Unlmtd,,Success
+14-Apr-16 07:36:38,EZ Pass AdultZ0,0160041198036089,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:36:40,Reg SV Regular,0160005775339356,N/A,3058,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,17.90,Unlmtd,,Success
+14-Apr-16 07:36:45,ASI,0160005509475351,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:40:12,Reg SV Regular,0160008199713438,N/A,3058,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.15,Unlmtd,,Success
+14-Apr-16 12:59:29,Reg SV College,01702146485509976328,N/A,3058,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.25,Unlmtd,,Success
+14-Apr-16 13:19:52,ASI,0160011832878626,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:22:51,ASI,0160008050673481,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:00:49,ASI,0160033083177060,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:27:30,ASI,0160005834321437,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:02:24,ASI,0160005509475351,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:19:08,Reg SV Student,0160008169899670,N/A,3058,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,4.50,Unlmtd,,Success
+14-Apr-16 16:04:41,Reg SV Regular,0160001189063443,N/A,3058,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,21.75,Unlmtd,,Success
+14-Apr-16 16:08:42,EZ Pass AdultZ0,0160000649927445,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:23:33,Reg SV Sr/Dis,0160005620120472,N/A,3058,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,2.90,Unlmtd,,Success
+14-Apr-16 17:26:35,EZ Pass AdultZ0,0160035438114789,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 18:38:24,ASI,0160005336336792,N/A,3058,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:51:17,Reg SV College,01702146485509976328,N/A,3058,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.50,Unlmtd,,Success
+14-Apr-16 07:18:23,EZ Pass AdultZ0,0160018932331125,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:06:11,Reg SV Regular,0160041858585201,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.00,Unlmtd,,Success
+14-Apr-16 08:24:27,Reg SV Regular,0160040952089201,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,14.25,Unlmtd,,Success
+14-Apr-16 08:28:17,Reg SV Regular,0160008486951105,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.25,Unlmtd,,Success
+14-Apr-16 08:33:01,Reg SV Regular,0160008618742877,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.00,Unlmtd,,Success
+14-Apr-16 08:55:01,Reg SV Regular,0160041801922162,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,21.50,Unlmtd,,Success
+14-Apr-16 08:55:04,Reg SV Regular,0160008429630550,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.00,Unlmtd,,Success
+14-Apr-16 09:42:04,Reg SV Sr/Dis,0160005519324953,N/A,3221,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,41.90,Unlmtd,,Success
+14-Apr-16 09:45:59,Reg SV Sr/Dis,0160005620120472,N/A,3221,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,3.25,Unlmtd,,Success
+14-Apr-16 10:00:58,Reg SV Regular,0160041825174642,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.25,Unlmtd,,Success
+14-Apr-16 10:05:39,ASI,0160008105637911,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:05:43,ASI,0160005741772631,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:55:31,Reg SV Regular,0160008609788707,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.75,Unlmtd,,Success
+14-Apr-16 11:22:14,Reg SV Regular,0160005159058077,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.00,Unlmtd,,Success
+14-Apr-16 11:45:13,ASI,0160041938303047,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:45:22,ASI,0160041892672320,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:49:30,Reg SV Sr/Dis,0160005319476318,N/A,3221,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,14.35,Unlmtd,,Success
+14-Apr-16 11:51:15,ASI,0160005586927191,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:24:49,ASI,0160033065042183,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:31:10,ASI,0160008117347350,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:42:16,ASI,0160008120238877,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:42:18,EZ Pass AdultZ2,0160001077720450,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,1,Success
+14-Apr-16 12:51:13,Reg SV Regular,0160008100468312,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.00,Unlmtd,,Success
+14-Apr-16 13:12:38,EZ Annual Z5,0160035134201104,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:21:49,Reg SV Sr/Dis,0160005067623194,N/A,3221,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,25.20,Unlmtd,,Success
+14-Apr-16 13:41:32,ASI,0160005587677910,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:06:41,Reg SV Regular,0160040952089201,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.50,Unlmtd,,Success
+14-Apr-16 15:22:51,Reg SV Regular,0160030209991283,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,25.25,Unlmtd,,Success
+14-Apr-16 15:53:04,ASI,0160005536206233,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.25,Unlmtd,0,Success
+14-Apr-16 15:54:34,EZ Pass AdultZ0,0160007593132831,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.25,Unlmtd,0,Success
+14-Apr-16 16:02:03,EZ Pass S/D Z0,0160005805848152,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:06:32,ASI,0160041880083043,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:11:39,ASI,0160011833643581,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:33:33,ASI,0160021186809127,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:57:04,Reg SV Regular,0160008486951105,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.50,Unlmtd,,Success
+14-Apr-16 17:25:27,Reg SV Regular,0160008087091038,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,50.00,Unlmtd,,Success
+14-Apr-16 17:30:44,Reg SV Regular,0160005011029597,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,33.25,Unlmtd,,Success
+14-Apr-16 17:31:48,Reg SV Regular,0160014091432564,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.25,Unlmtd,,Success
+14-Apr-16 17:47:19,Reg SV Regular,0160008273822550,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.75,Unlmtd,,Success
+14-Apr-16 17:59:36,Reg SV Sr/Dis,0160012139789029,N/A,3221,Hotlisted - Reject Everywhere,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Hotlisted - Reject
+14-Apr-16 18:07:11,ASI,0160021186809127,N/A,3221,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:29:53,Reg SV Regular,0160042141168243,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,17.55,Unlmtd,,Success
+14-Apr-16 19:37:19,Reg SV Regular,0160008609788707,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.00,Unlmtd,,Success
+14-Apr-16 19:38:40,Reg SV Student,0160029024629318,N/A,3221,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,4.50,Unlmtd,,Success
+14-Apr-16 19:38:42,Reg SV Regular,0160004832572638,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.00,Unlmtd,,Success
+14-Apr-16 19:38:45,Reg SV Regular,0160004829832474,N/A,3221,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.50,Unlmtd,,Success
+14-Apr-16 19:44:19,Reg SV Sr/Dis,0160008108763037,N/A,3221,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,0.60,Unlmtd,,Success
+14-Apr-16 06:18:01,Reg SV Regular,0160005873163674,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.50,Unlmtd,,Success
+14-Apr-16 07:15:33,Reg SV Regular,0160002655075580,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.00,Unlmtd,,Success
+14-Apr-16 07:16:25,EZ Pass AdultZ0,0160008453103839,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 07:18:57,Reg SV Student,0160005292123358,N/A,3294,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,1.50,Unlmtd,,Success
+14-Apr-16 07:21:28,EZ Pass AdultZ0,0160008672579678,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:21:31,Reg SV Regular,0160008377970719,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,24.25,Unlmtd,,Success
+14-Apr-16 07:22:40,PS Try Tran Mon,0160039870581364,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:28:47,Reg SV Regular,0160002254496708,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,29.75,Unlmtd,,Success
+14-Apr-16 07:40:17,ASI,0160038273252276,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:10:22,ASI,0160012139093349,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:12:02,Reg SV Regular,0160008315644319,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.10,Unlmtd,,Success
+14-Apr-16 08:15:03,ASI,0160005808170075,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:15:08,Reg SV Regular,0160005749102237,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.50,Unlmtd,,Success
+14-Apr-16 08:18:02,ASI,0160041888215043,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:18:04,Reg SV Regular,0160008974965153,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,33.50,Unlmtd,,Success
+14-Apr-16 08:18:06,EZ Pass AdultZ2,0160008196018112,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:28:40,Reg SV Regular,0160005544493914,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,4.50,Unlmtd,,Success
+14-Apr-16 08:31:03,ASI,0160041273463208,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:40:09,ASI,0160005336075036,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:44:03,ASI,0160011832878626,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:46:46,ASI,0160005583884635,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:53:14,ASI,0160005292758559,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:10:28,ASI,0160005533707993,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:23:25,ASI,0160020378727840,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:25:22,ASI,0160008075691724,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:28:48,Reg SV Regular,0160030222568563,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.00,Unlmtd,,Success
+14-Apr-16 09:29:51,ASI,0160005327329756,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:29:52,ASI,0160005649035032,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:36:19,ASI,0160036515036119,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:48:19,ASI,0160005334175192,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:52:08,ASI,0160008172194713,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:56:39,Reg SV Regular,0160008444136476,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 10:13:56,ASI,0160005510594398,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:17:18,ASI,0160005292758559,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:26:32,ASI,0160019589762273,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:30:02,ASI,0160008034261486,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.50,Unlmtd,0,Success
+14-Apr-16 10:38:01,ASI,0160008105637911,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:00:42,ASI,0160005584782879,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:00:46,ASI,0160005654484638,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:05:41,ASI,0160005834321437,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:19:27,ASI,0160008118500957,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:29:03,ASI,0160036514916436,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 11:29:22,EZ Pass AdultZ0,01701064481264267524,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:44:49,Reg SV Regular,0160005502451995,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,17.50,Unlmtd,,Success
+14-Apr-16 11:55:07,ASI,0160008090141275,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:02:51,ASI,0160008199654236,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:02:56,ASI,0160041575093125,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:10:37,ASI,0160008109215516,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:14:33,ASI,0160008139195670,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:21:15,ASI,0160005533707993,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:28:14,Reg SV Regular,0160008143820701,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.75,Unlmtd,,Success
+14-Apr-16 12:34:18,Reg SV Regular,0160040551927926,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,23.05,Unlmtd,,Success
+14-Apr-16 12:36:54,ASI,0160012142146308,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:37:43,ASI,0160008106691354,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:04:36,ASI,0160036515043792,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:11:58,ASI,0160005336443036,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:12:17,Reg SV Sr/Dis,0160005322506077,N/A,3294,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,12.90,Unlmtd,,Success
+14-Apr-16 13:19:31,ASI,0160005565737751,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:28:42,ASI,0160028110442990,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:47:02,ASI,0160005334490070,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:47:12,ASI,0160041880281126,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:47:28,ASI,0160005332281752,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:49:18,ASI,0160019589444351,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:50:21,ASI,0160019588975397,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:51:00,ASI,0160005751595997,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:58:43,ASI,0160005336632794,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:17:10,Reg SV Regular,0160000964874008,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.00,Unlmtd,,Success
+14-Apr-16 14:19:37,ASI,0160008050024362,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:26:31,ASI,0160005622624794,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:51:52,ASI,0160033064021543,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:56:24,Reg SV Regular,0160007611528671,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.00,Unlmtd,,Success
+14-Apr-16 14:56:47,ASI,0160005598570070,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:12:47,Reg SV Regular,0160008233947992,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,15.80,Unlmtd,,Success
+14-Apr-16 15:36:20,ASI,0160005597508634,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:48:07,ASI,0160005510594398,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:14:28,Reg SV Sr/Dis,0160010338303303,N/A,3294,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,18.35,Unlmtd,,Success
+14-Apr-16 16:24:13,Reg SV Regular,0160021080487525,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.35,Unlmtd,,Success
+14-Apr-16 16:40:23,ASI,0160005336336792,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:44:34,Reg SV Regular,0160008521413913,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.90,Unlmtd,,Success
+14-Apr-16 16:44:54,Reg SV Regular,0160005844033436,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.25,Unlmtd,,Success
+14-Apr-16 17:37:45,Reg SV Regular,0160005107238235,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,49.20,Unlmtd,,Success
+14-Apr-16 17:51:32,ASI,0160033065097864,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:24:04,Reg SV Regular,0160008500475677,N/A,3294,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.00,Unlmtd,,Success
+14-Apr-16 18:54:38,EZ Pass AdultZ0,0160002610954465,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:54:41,ASI,0160005715899675,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:58:38,ASI,0160005755075673,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:58:44,ASI,0160005596559513,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:06:32,ASI,0160005834321437,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:15:21,EZ Pass AdultZ0,0160008256104158,N/A,3294,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:21:24,Reg SV Sr/Dis,0160005650981595,N/A,3294,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,10.20,Unlmtd,,Success
+14-Apr-16 19:30:25,Reg SV Regular,0160008534983191,N/A,3294,SV Exit (Tag Off),,1,0.00,0.00,0.00,0.00,27.25,Unlmtd,,Success
+14-Apr-16 06:49:19,EZ Pass AdultZ0,0160010609932772,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:06:11,Reg SV Regular,0160008360930597,N/A,3207,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,33.50,Unlmtd,,Success
+14-Apr-16 07:57:25,EZ Pass AdultZ0,0160018895915120,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,4.75,Unlmtd,0,Success
+14-Apr-16 07:57:27,EZ Pass AdultZ0,0160008154032543,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,9.80,Unlmtd,0,Success
+14-Apr-16 09:02:47,ASI,0160005509379991,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.35,Unlmtd,0,Success
+14-Apr-16 09:03:14,ASI,0160011833210944,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:16:31,ASI,0160033065042183,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:19:32,ASI,0160005501173277,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:19:34,Reg SV Regular,0160005031338390,N/A,3207,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,28.75,Unlmtd,,Success
+14-Apr-16 09:21:45,EZ Pass AdultZ0,0160000649927445,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:52:13,Reg SV Regular,0160005031338390,N/A,3207,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,28.00,Unlmtd,,Success
+14-Apr-16 10:58:28,ASI,0160036515261071,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:19:41,ASI,0160005509379991,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.35,Unlmtd,0,Success
+14-Apr-16 12:03:56,ASI,0160028111520596,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:25:05,EZ Pass AdultZ0,0160035438114789,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 16:14:01,Reg SV Regular,0160000964874008,N/A,3207,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,10.25,Unlmtd,,Success
+14-Apr-16 16:38:35,EZ Pass AdultZ0,0160041198036089,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:17:42,ASI,0160019691700518,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:00:35,Reg SV Regular,0160008450674717,N/A,3207,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,13.00,Unlmtd,,Success
+14-Apr-16 18:54:52,ASI,0160011560702949,N/A,3207,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 06:34:18,ASI,0160033081218502,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.00,Unlmtd,0,Success
+14-Apr-16 07:05:45,ASI,0160008071530397,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:06:02,Reg SV Regular,0160005637273116,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.75,Unlmtd,,Success
+14-Apr-16 07:17:30,Reg SV Regular,0160003099267429,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.00,Unlmtd,,Success
+14-Apr-16 07:34:26,Reg SV Regular,0160009100076196,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,195.75,Unlmtd,,Success
+14-Apr-16 07:58:30,Reg SV Regular,0160013192117348,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,8.75,Unlmtd,,Success
+14-Apr-16 08:11:57,ASI,0160033079622343,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:30:25,Reg SV Regular,0160005090641759,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 08:35:48,ASI,0160041892660325,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:35:51,ASI,0160005685577434,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:36:03,ASI,0160008107731670,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 08:36:52,Reg SV Regular,0160008398507037,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.00,Unlmtd,,Success
+14-Apr-16 09:08:45,ASI,0160041273363689,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:15:40,ASI,0160005292758559,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:28:38,ASI,0160012139093349,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:16:02,ASI,0160008055313117,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:16:27,ASI,0160005336242719,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:16:33,ASI,0160036514436112,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:24:22,ASI,0160005585799195,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:32:29,Reg SV Regular,0160005053906710,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.50,Unlmtd,,Success
+14-Apr-16 10:42:28,ASI,0160012373500868,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:47:04,ASI,0160005501131358,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:47:25,ASI,0160021175602244,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:47:29,ASI,0160005753971352,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:01:28,ASI,0160008105637911,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:17:38,EZ Pass AdultZ0,0160008256104158,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:56:00,Reg SV Regular,0160008532623195,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.25,Unlmtd,,Success
+14-Apr-16 12:10:44,ASI,0160008055313117,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:13:27,ASI,0160008105637911,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:28:49,ASI,0160033083152907,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:35:35,Reg SV Regular,0160004903346078,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.90,Unlmtd,,Success
+14-Apr-16 12:36:40,Reg SV Regular,0160040269664886,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.00,Unlmtd,,Success
+14-Apr-16 12:38:18,ASI,0160005585933919,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:59:54,ASI,0160005584622232,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:07:45,ASI,0160012371694622,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:10:50,ASI,0160005533707993,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:31:34,ASI,0160008141487834,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:33:59,Reg SV Sr/Dis,01701357368484327681,N/A,3216,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,2.85,Unlmtd,,Success
+14-Apr-16 13:35:10,ASI,0160008118830230,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:42:57,ASI,0160005495511839,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:03:35,ASI,0160008199654236,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:19:51,ASI,0160005414678552,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:25:11,Reg SV Regular,0160000921241366,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,11.50,Unlmtd,,Success
+14-Apr-16 14:43:51,ASI,0160036515261071,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:45:05,ASI,0160005833766871,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:55:38,ASI,0160005585825750,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,3.00,Unlmtd,0,Success
+14-Apr-16 14:57:41,Reg SV Regular,0160040269664886,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 14:58:32,ASI,0160005652384152,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:06:13,ASI,0160005499683030,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:30:17,ASI,0160005509379991,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.35,Unlmtd,0,Success
+14-Apr-16 15:39:09,Reg SV Sr/Dis,0160008128452959,N/A,3216,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,10.95,Unlmtd,,Success
+14-Apr-16 15:43:29,Reg SV Sr/Dis,0160033085111141,N/A,3216,Hotlisted - Reject Everywhere,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Hotlisted - Reject
+14-Apr-16 15:43:31,Reg SV Sr/Dis,0160033085111141,N/A,3216,Hotlisted - Reject Everywhere,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Hotlisted - Reject
+14-Apr-16 15:43:34,Reg SV Sr/Dis,0160033085111141,N/A,3216,Hotlisted - Reject Everywhere,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Hotlisted - Reject
+14-Apr-16 16:03:01,ASI,0160005495511839,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:09:12,ASI,0160005338711513,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:25:40,Reg SV Regular,01701565138891075845,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.25,Unlmtd,,Success
+14-Apr-16 16:29:32,Reg SV Regular,0160008305146713,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,9.25,Unlmtd,,Success
+14-Apr-16 16:31:15,ASI,0160028112222994,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:31:56,ASI,0160005332267991,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:36:58,Reg SV Regular,0160002944706144,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.30,Unlmtd,,Success
+14-Apr-16 16:37:00,Reg SV Regular,0160003004522942,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,14.75,Unlmtd,,Success
+14-Apr-16 16:57:49,ASI,0160011561031587,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:57:58,ASI,0160005701907672,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:58:00,ASI,0160005664652315,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:06:58,EZ Pass AdultZ0,0160008252699672,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:15:44,ASI,0160008074918235,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:20:39,ASI,0160008074052316,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:50:39,Reg SV Regular,0160005662299994,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,3.25,Unlmtd,,Success
+14-Apr-16 17:56:49,Reg SV Regular,0160018583335342,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.05,Unlmtd,,Success
+14-Apr-16 18:14:41,EZ Pass AdultZ0,0160008295636632,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:15:05,Reg SV Regular,0160005669547353,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.00,Unlmtd,,Success
+14-Apr-16 18:28:04,ASI,0160042245281280,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:49:35,Reg SV Regular,0160009162188319,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.50,Unlmtd,,Success
+14-Apr-16 19:00:29,Reg SV Regular,0160005021613919,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.35,Unlmtd,,Success
+14-Apr-16 19:01:19,Reg SV Regular,0160040225822321,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,19.50,Unlmtd,,Success
+14-Apr-16 19:01:20,Reg SV Regular,0160005393530071,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,72.50,Unlmtd,,Success
+14-Apr-16 19:20:34,ASI,0160005688457113,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:21:43,ASI,0160008064239089,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:46:59,ASI,0160041938303047,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:48:47,Reg SV Regular,0160008528923674,N/A,3216,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.00,Unlmtd,,Success
+14-Apr-16 20:18:36,ASI,0160008074052316,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 20:18:39,Reg SV Sr/Dis,0160008074052316,N/A,3216,No Prod Use Type,,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,,Passback
+14-Apr-16 20:18:50,ASI,0160019588930756,N/A,3216,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:24:59,Reg SV Regular,0160039818741369,N/A,3053,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.75,Unlmtd,,Success
+14-Apr-16 07:11:46,ASI,0160011832250149,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:15:12,Reg SV Regular,0160000903513667,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,5.00,Unlmtd,,Success
+14-Apr-16 07:56:21,Reg SV Regular,0160041807316088,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.00,Unlmtd,,Success
+14-Apr-16 08:18:30,Reg SV Sr/Dis,0160005369075994,N/A,3222,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,10.25,Unlmtd,,Success
+14-Apr-16 08:20:10,Reg SV Regular,0160005232908959,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.75,Unlmtd,,Success
+14-Apr-16 08:25:39,ASI,0160005584936152,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:03:09,Reg SV Sr/Dis,0160005283159197,N/A,3222,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,10.65,Unlmtd,,Success
+14-Apr-16 09:04:28,ASI,0160005580514078,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:20:21,ASI,0160005327329756,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:20:23,ASI,0160005649035032,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:21:25,ASI,0160033079020589,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:50:41,Reg SV Regular,0160005624024159,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,12.75,Unlmtd,,Success
+14-Apr-16 10:11:38,ASI,0160005586192796,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:26:08,ASI,0160005656309593,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 10:55:13,ASI,0160021175672486,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:05:59,Reg SV Sr/Dis,0160005705350234,N/A,3222,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,5.05,Unlmtd,,Success
+14-Apr-16 11:13:23,ASI,0160005751595997,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:14:51,ASI,0160028111880594,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:24:40,ASI,0160038261549238,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.25,Unlmtd,0,Success
+14-Apr-16 11:32:45,ASI,0160020379510245,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:36:13,EZ Pass S/D Z0,0160001785491170,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:09:23,ASI,0160036524990678,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:22:45,ASI,0160028111880594,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:25:18,ASI,0160008120238877,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 12:39:22,ASI,0160005586192796,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:12:38,Reg SV Regular,0160008243817433,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,27.00,Unlmtd,,Success
+14-Apr-16 13:30:38,ASI,0160011543037827,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,2.45,Unlmtd,0,Success
+14-Apr-16 13:37:34,ASI,0160008120238877,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:40:04,Reg SV Sr/Dis,0160005705350234,N/A,3222,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,4.70,Unlmtd,,Success
+14-Apr-16 13:42:56,ASI,0160038262463157,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 13:50:50,EZ Pass AdultZ0,01701064481264267524,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:10:50,ASI,0160005598570070,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:17:40,Reg SV Regular,0160008114242398,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,7.00,Unlmtd,,Success
+14-Apr-16 14:25:39,Reg SV Regular,0160041781838966,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,18.50,Unlmtd,,Success
+14-Apr-16 14:32:31,ASI,0160005586192796,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:39:33,PS Try Tran Mon,0160042599751284,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:40:58,ASI,0160038262463157,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:41:07,ASI,0160033086345706,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 14:55:27,EZ Pass S/D Z0,0160013619557985,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.30,Unlmtd,0,Success
+14-Apr-16 15:00:16,ASI,0160005579372314,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:00:23,ASI,0160005758734235,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,8.05,Unlmtd,0,Success
+14-Apr-16 15:13:19,Reg SV Regular,0160018059739019,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,16.25,Unlmtd,,Success
+14-Apr-16 15:39:50,ASI,0160008141039510,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 15:42:06,Reg SV Student,0160005545943511,N/A,3222,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,8.50,Unlmtd,,Success
+14-Apr-16 15:42:34,ASI,0160019589448998,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:22:34,Reg SV Regular,0160007636873953,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,32.00,Unlmtd,,Success
+14-Apr-16 16:42:24,EZ Pass S/D Z0,0160005804703192,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 16:42:29,Reg SV Regular,0160005040192473,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.50,Unlmtd,,Success
+14-Apr-16 17:11:40,Reg SV Regular,0160039993610694,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,6.95,Unlmtd,,Success
+14-Apr-16 17:13:18,Reg SV Regular,0160008502981912,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.75,Unlmtd,,Success
+14-Apr-16 17:13:57,ASI,0160011832878626,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:15:49,Reg SV Regular,0160041807316088,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,20.25,Unlmtd,,Success
+14-Apr-16 17:18:44,EZ Pass S/D Z0,0160004888107354,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 17:23:40,Reg SV Regular,0160005790659671,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,0.00,Unlmtd,,Success
+14-Apr-16 17:58:53,EZ Pass S/D Z0,0160013619557985,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.30,Unlmtd,0,Success
+14-Apr-16 18:01:50,ASI,0160042245274087,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:21:21,ASI,0160005715899675,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 18:22:55,ASI,0160033086345706,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:00:47,Reg SV Regular,0160005232908959,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.00,Unlmtd,,Success
+14-Apr-16 19:23:31,EZ Pass S/D Z0,0160005804703192,N/A,3222,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 19:26:00,Reg SV Sr/Dis,0160005807071837,N/A,3222,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,8.05,Unlmtd,,Success
+14-Apr-16 19:29:54,Reg SV Regular,0160008578578071,N/A,3222,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,30.00,Unlmtd,,Success
+14-Apr-16 06:27:11,Reg SV Student,0160020356605232,N/A,3223,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,38.50,Unlmtd,,Success
+14-Apr-16 06:32:47,Reg SV Student,01700091196019339530,N/A,3223,SV Entry (Tag On),,1,0.50,0.00,-0.50,-0.50,7.50,Unlmtd,,Success
+14-Apr-16 06:40:35,ASI,0160036514916436,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,1.75,Unlmtd,0,Success
+14-Apr-16 07:05:27,Reg SV Regular,0160005194559832,N/A,3223,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,2.50,Unlmtd,,Success
+14-Apr-16 07:30:12,ASI,0160011542575900,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 07:48:36,ASI,0160008083381599,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:28:34,Reg SV Regular,0160008245837918,N/A,3223,SV Entry (Tag On),,1,0.75,0.00,-0.75,-0.75,1.10,Unlmtd,,Success
+14-Apr-16 09:46:42,ASI,0160005501131358,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:55:32,ASI,0160028112099954,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 09:56:37,Reg SV Sr/Dis,01701357368484327681,N/A,3223,SV Entry (Tag On),,1,0.35,0.00,-0.35,-0.35,3.20,Unlmtd,,Success
+14-Apr-16 10:38:23,ASI,0160033064617860,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:03:54,ASI,0160005688540637,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.00,Unlmtd,0,Success
+14-Apr-16 11:04:01,ASI,0160012139331426,N/A,3223,Pass Entry (Tag On),,1,0.00,0.00,0.00,0.00,0.75,Unlmtd,0,Success
