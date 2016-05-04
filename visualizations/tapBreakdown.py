@@ -1,4 +1,5 @@
 import numpy as np 
+import matplotlib
 import pandas as pd 
 import os 
 import matplotlib.pyplot as plt
@@ -25,12 +26,12 @@ def getDataFrame(path, files):
 	return pd.concat(frames)  
 
 
-def aggregateRouteCost(frame):
-	route_costs = frame.groupby('Route').agg({'TotalCost': np.sum})
-	route_costs.plot(kind='bar',color='r', legend=False)
-	plt.xlabel('Route')
-	plt.ylabel('Revenue ($)')
-	plt.title('Total Revenue of Routes')
+def tapBreakdown(frame):
+	frame.TransactionType.value_counts().plot(kind='bar')
+	plt.ylim(0,1200)
+	#plt.xlabel('Transaction Type')
+	plt.ylabel('Unique instances')
+	plt.title('Transaction Method')
 	plt.show()
 
 if __name__ == "__main__":
@@ -40,4 +41,4 @@ if __name__ == "__main__":
 	files = getFiles(PATH)
 	df = getDataFrame(PATH, files)
 	
-	aggregateRouteCost(df)
+	tapBreakdown(df)
