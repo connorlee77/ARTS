@@ -27,6 +27,7 @@ def getDataFrame(path, files):
 
 def aggregateRouteDelay(frame):
 	route_costs = frame.groupby('Route').agg({'Avg Arrival Diff': np.mean})
+	print(route_costs)
 	route_costs.plot(kind='bar',color='r', legend=False)
 	plt.xlabel('Route')
 	plt.ylabel('Delay (min)')
