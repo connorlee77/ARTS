@@ -20,12 +20,17 @@ def processFile(file, PATH, OUTPUT_PATH):
 	row_num = 0	
 	previous_row = []	
 	for curr_row in reader:
-		if row_num == 0:
+
+		if row_num < 4:
+			row_num += 1
+			continue
+			
+		if row_num == 4:
 			writer.writerow(curr_row)
-		elif row_num == 1:
+		elif row_num == 5:
 			previous_row = curr_row
 			writer.writerow(curr_row)
-		elif row_num > 1:
+		elif row_num > 5:
 
 			for i in range(4):
 				if curr_row[i] == '' or curr_row[i] == ' ':
@@ -44,11 +49,11 @@ def processAll(files, PATH, OUTPUT_PATH):
 
 
 if __name__ == "__main__":
-	PATH = '../rawdata'
-	OUTPUT_PATH = '../data/data'
+	path = '../rawdata/gps'
+	output = '../data/data/gps'
 
-	files = getFiles(PATH)
-	processAll(files, PATH, OUTPUT_PATH)
+	files = getFiles(path)
+	processAll(files, path, output)
 
 	
 
