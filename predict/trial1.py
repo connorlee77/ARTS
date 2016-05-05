@@ -16,5 +16,6 @@ def getDataFrame(path, filename):
 if __name__ == "__main__":
 	PATH = '../data/mergedData/'
 	df = getDataFrame(PATH, "For_Jim.csv")
+	df.Date = (df.Date - df.Date[0]) / 60
 	res = ols(y=df['Avg Arrival Diff'], x=df[['Date','20cc','51','52','60','32','31','20cw','10','40']], intercept = True)
 	print(res)
