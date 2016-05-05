@@ -7,6 +7,19 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.cross_validation import train_test_split
 
+
+''' 
+	Regressed on columns: Vehicle, Day (day of week), Route, time (convert to minutes)
+	Predict: 'Avg Arrival Diff'
+
+	Random Forest Regressor: tree max depth of 20 levels  
+
+	RMSE: 2.78213285645
+	R2: 0.166345713677
+'''
+
+
+
 PATH = '../data/data/gps/'
 
 def getFiles(PATH):
@@ -62,8 +75,8 @@ regressor = RandomForestRegressor(random_state=0, max_depth=20)
 regressor.fit(train.ix[:, train.columns != 'Avg Arrival Diff'], train['Avg Arrival Diff'])
 predictions = regressor.predict(test.ix[:, test.columns != 'Avg Arrival Diff'])
 
-print np.sqrt(np.mean(np.square(np.subtract(test['Avg Arrival Diff'].as_matrix(), predictions))))
-print regressor.score(test.ix[:, test.columns != 'Avg Arrival Diff'], test['Avg Arrival Diff'])
+print "RMSE: " + str(np.sqrt(np.mean(np.square(np.subtract(test['Avg Arrival Diff'].as_matrix(), predictions)))))
+print "R2: " + str(regressor.score(test.ix[:, test.columns != 'Avg Arrival Diff'], test['Avg Arrival Diff']))
 
 
 
