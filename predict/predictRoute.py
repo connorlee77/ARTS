@@ -97,64 +97,76 @@ class PredictRouteOnline:
 
 	def LinUCB(self, learning_rate=0.01, payoff=1.0, loss=0):
 
-		for index, row in self.frame.iterrows():
+		alpha = 1 + np.sqrt(np.log(2 / learning_rate) / 2)
 
-			features = row.as_matrix()
-			assert len(features) == self.num_features
-			
-			probabilities = np.zeros(len(self.arm_names))
-			for i, a in enumerate(self.arm_names):
+		x = 0
+		while x < 1:
+			for index, row in self.frame.iterrows():
+
+				features = row.as_matrix()
+				assert len(features) == self.num_features
 				
-				if a not in self.arms:
-					self.arms[a] = Arm(a, self.num_features)
+				probabilities = np.zeros(len(self.arm_names))
+				for i, a in enumerate(self.arm_names):
+					
+					if a not in self.arms:
+						self.arms[a] = Arm(a, self.num_features)
 
 
-				curr_arm = self.arms[a]
-		
-				A = curr_arm.A 
-				b = curr_arm.b
-
-				A_inv = np.linalg.inv(A)
-				xTAx = np.dot(
-					np.dot(
-						features.T, 
-						A_inv), 
-					features)
-
-				theta = np.dot(A.T, b)
-				p = np.dot(theta.T, features) + learning_rate * np.sqrt(xTAx)  
-
-				probabilities[i] = p
-
-			maxIndex = np.argmax(probabilities)
-			chosenArm = self.arm_names[maxIndex]
-			arm = self.arms[chosenArm]
-
-			trueLabel = self.true_labels.get_value(index, 'Route')
-
-			# Calculate reward and regret
-			reward = payoff if trueLabel is chosenArm else loss
-
-			self.expected_payoff += reward
-			self.true_payoff += payoff
-			self.regret = self.true_payoff - self.expected_payoff
-
-			# Update arm feature weights 
-			arm.A = np.add(arm.A, 
-				np.dot(features, features.T))
-
-			arm.b = np.add(arm.b, 
-				np.dot(reward, features))
+					curr_arm = self.arms[a]
 			
-			if (index + 1) % 100 == 0:
-				print str(index) + ', regret: ' + str(self.regret)
+					A = curr_arm.A 
+					b = curr_arm.b
+
+					A_inv = np.linalg.inv(A)
+					xTAx = np.dot(
+						np.dot(
+							features.T, 
+							A_inv), 
+						features)
+
+					theta = np.dot(A_inv, b)
+					p = np.dot(theta.T, features) + alpha * np.sqrt(xTAx)  
+
+					probabilities[i] = p
+
+				maxIndex = np.argmax(probabilities)
+				chosenArm = self.arm_names[maxIndex]
+				arm = self.arms[chosenArm]
+
+				trueLabel = self.true_labels.get_value(index, 'Route')
+
+				if trueLabel not in self.arm_names:
+					self.arm_names.append(trueLabel)
+
+				# Calculate reward and regret
+				reward = payoff if trueLabel is chosenArm else loss
+
+				self.expected_payoff += reward
+				self.true_payoff += payoff
+				self.regret = self.true_payoff - self.expected_payoff
+
+				# Update arm feature weights 
+				arm.A = np.add(arm.A, 
+					np.dot(features, features.T))
+
+				arm.b = np.add(arm.b, 
+					np.dot(reward, features))
+				
+				if (index + 1) % 100 == 0:
+					print
+					print str(index + 13799 * x) + ', regret: ' + str(self.regret)
+					print self.regret / (x*13799 + index)
+
+			x += 1
+		
 
 
 
 
 def main():
 	learner = PredictRouteOnline()
-	learner.LinUCB()
+	learner.LinUCB(learning_rate=1e-3)
 
 if __name__ == '__main__':
 	main()
