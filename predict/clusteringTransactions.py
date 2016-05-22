@@ -14,7 +14,7 @@ from sklearn.datasets import load_digits
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import scale
 
-np.random.seed(42)
+np.random.seed(187) # Ride or die mothafuckas
 
 def getDataFrame(path, filename):
     os.chdir(path)
@@ -23,25 +23,24 @@ def getDataFrame(path, filename):
 
 PATH = '../predict/output/'
 df = getDataFrame(PATH, "stations.csv")
-fareDummies = pd.get_dummies(df['FareProduct'], dummy_na=True)
+stationDummies = pd.get_dummies(df['station'], dummy_na=True)
 transactionDummies = pd.get_dummies(df['TransactionType'], dummy_na=True)
 routeDummies = pd.get_dummies(df['Route'],dummy_na=True)
-df = pd.concat([df, fareDummies, transactionDummies, routeDummies], axis=1)
+df = pd.concat([df, stationDummies, transactionDummies, routeDummies], axis=1)
 
 n_samples, n_features = df.shape
-n_stations = len(np.unique(df.station))
+n_fareProduct = len(np.unique(df.FareProduct))
 labels = df.station
 
-sample_size = 300
+sample_size = 1000
 df = df.drop(['station'], axis = 1)
 df = df.drop(['Date','FareProduct', 'TransactionType', 'Departure', 'Arrival', 'Route'], axis = 1)
 
 
 df = scale(df)
 
-
-print("n_digits: %d, \t n_samples %d, \t n_features %d"
-      % (n_stations, n_samples, n_features))
+print("n_fareproduct: %d, \t n_samples %d, \t n_features %d"
+      % (n_fareProduct, n_samples, n_features))
 
 
 print(79 * '_')
@@ -63,23 +62,23 @@ def bench_k_means(estimator, name, data):
                                       metric='euclidean',
                                       sample_size=sample_size)))
 
-bench_k_means(KMeans(init='k-means++', n_clusters=n_stations, n_init=10),
+bench_k_means(KMeans(init='k-means++', n_clusters=n_fareProduct, n_init=10),
               name="k-means++", data=df)
 
-bench_k_means(KMeans(init='random', n_clusters=n_stations, n_init=10),
+bench_k_means(KMeans(init='random', n_clusters=n_fareProduct, n_init=10),
               name="random", data=df)
 
 # in this case the seeding of the centers is deterministic, hence we run the
 # kmeans algorithm only once with n_init=1
-pca = PCA(n_components=n_stations).fit(df)
-bench_k_means(KMeans(init=pca.components_, n_clusters=n_stations, n_init=1),
+pca = PCA(n_components=n_fareProduct).fit(df)
+bench_k_means(KMeans(init=pca.components_, n_clusters=n_fareProduct, n_init=1),
               name="PCA-based",
               data=df)
 print(79 * '_')
 
 # Visualize the results on PCA-reduced data
 reduced_data = PCA(n_components=2).fit_transform(df)
-kmeans = KMeans(init='k-means++', n_clusters=n_stations, n_init=10)
+kmeans = KMeans(init='k-means++', n_clusters=n_fareProduct, n_init=10)
 kmeans.fit(reduced_data)
 
 # Step size of the mesh. Decrease to increase the quality of the VQ.
@@ -107,9 +106,9 @@ centroids = kmeans.cluster_centers_
 plt.scatter(centroids[:, 0], centroids[:, 1],
             marker='x', s=169, linewidths=3,
             color='w', zorder=10)
-plt.title('K-means clustering of stations (PCA-reduced data)')
+plt.title('K-means clustering of fare product(PCA-reduced data)')
 plt.xlim(x_min, x_max)
 plt.ylim(y_min, y_max)
 plt.xticks(())
 plt.yticks(())
-plt.savefig("cluster.png")
+plt.savefig("clusterTransaction.png")
