@@ -68,18 +68,22 @@ bench_k_means(KMeans(init='k-means++', n_clusters=n_fareProduct, n_init=10),
 bench_k_means(KMeans(init='random', n_clusters=n_fareProduct, n_init=10),
               name="random", data=df)
 
-# in this case the seeding of the centers is deterministic, hence we run the
-# kmeans algorithm only once with n_init=1
 pca = PCA(n_components=n_fareProduct).fit(df)
+
+
 bench_k_means(KMeans(init=pca.components_, n_clusters=n_fareProduct, n_init=1),
               name="PCA-based",
               data=df)
 print(79 * '_')
 
 # Visualize the results on PCA-reduced data
-reduced_data = PCA(n_components=2).fit_transform(df)
+pcaDecomp =  PCA(n_components=2)
+reduced_data = pcaDecomp.fit_transform(df)
 kmeans = KMeans(init='k-means++', n_clusters=n_fareProduct, n_init=10)
 kmeans.fit(reduced_data)
+
+print("Variance explained by first two principal components: ")
+print(pcaDecomp.explained_variance_ratio_)
 
 # Step size of the mesh. Decrease to increase the quality of the VQ.
 h = .02     # point in the mesh [x_min, m_max]x[y_min, y_max].
@@ -106,7 +110,7 @@ centroids = kmeans.cluster_centers_
 plt.scatter(centroids[:, 0], centroids[:, 1],
             marker='x', s=169, linewidths=3,
             color='w', zorder=10)
-plt.title('K-means clustering of fare product(PCA-reduced data)')
+plt.title('K-means clustering of fare product (PCA-reduced data)')
 plt.xlim(x_min, x_max)
 plt.ylim(y_min, y_max)
 plt.xticks(())

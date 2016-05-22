@@ -78,9 +78,13 @@ bench_k_means(KMeans(init=pca.components_, n_clusters=n_stations, n_init=1),
 print(79 * '_')
 
 # Visualize the results on PCA-reduced data
-reduced_data = PCA(n_components=2).fit_transform(df)
+pcaDecomp =  PCA(n_components=2)
+reduced_data = pcaDecomp.fit_transform(df)
 kmeans = KMeans(init='k-means++', n_clusters=n_stations, n_init=10)
 kmeans.fit(reduced_data)
+
+print("Variance explained by first two principal components: ")
+print(pcaDecomp.explained_variance_ratio_)
 
 # Step size of the mesh. Decrease to increase the quality of the VQ.
 h = .02     # point in the mesh [x_min, m_max]x[y_min, y_max].
