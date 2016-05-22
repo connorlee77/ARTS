@@ -117,3 +117,4 @@ plt.ylim(y_min, y_max)
 plt.xticks(())
 plt.yticks(())
 plt.savefig("clusterStations.png")
+
