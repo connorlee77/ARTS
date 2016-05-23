@@ -90,7 +90,6 @@ def getTapEntryData(tap_entry):
 	dayDenoter = 'dx' if isWeekday else 'sat' 
 
 	route = tap_entry['Route']
-	print route
 	if route == '51s':
 		route = '51'
 
@@ -162,13 +161,12 @@ def predictStation():
 			if loss < min_diff:
 				min_diff = loss
 				min_station = station
-		print index, min_station, min_diff 
 
 		
 
 		tapData.set_value(index, 'station', min_station)
 		
-	tapData.to_csv(path_or_buf='output/stations.csv', index=False)
+	tapData.to_csv(path_or_buf='output/stations.csv')
 
 
 def main():
