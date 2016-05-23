@@ -24,7 +24,7 @@ def importTAPData():
 	frame = pd.DataFrame.from_csv(MERGED_FILES, index_col=False, infer_datetime_format=True)
 
 	frame['station'] = None
-	return frame[['Date', 'FareProduct', 'TransitCard', 'TransactionType', 'Hour', 'Minute', 'Route', 'Departure', 'Arrival', 'station']]
+	return frame[['Date', 'FareProduct', 'TransitCard', 'TransactionType', 'Hour', 'Minute', 'Route', 'Departure' ,'Arrival', 'Avg Arrival Diff' ,'station']]
 
 
 def importTimetable(file):
