@@ -18,7 +18,7 @@ npm install
 
 gem install sass
 
-grunt watch
+grunt browserify
 ```
 
 Open a new terminal
