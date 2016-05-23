@@ -6,11 +6,11 @@ var _ = require('underscore');
 var knex = require('knex')({
     client: 'pg',
     connection: {
-    	host: '127.0.0.1',
-    	user: 'connor',
-    	password: '7777',
+    	host: 'ec2-54-225-100-236.compute-1.amazonaws.com',
+    	user: 'cwlsijpetpmljf',
+    	password: 'jrU8kUKuU7AdBzyDjqHyVGBaBt',
     	port: '5432',
-    	database: 'connor'
+    	database: 'd3bkl6mc1pdi72'
     }
 });
 

@@ -29,7 +29,7 @@ module.exports = Reflux.createStore({
 
 		// Ajax call
 		$.get({
-			url: 'http://localhost:3000/test',
+			url: 'test',
 			data: obj.attributes,
 			success: function(data) {
 				if(data != null || data != '' || data != []) {
@@ -44,7 +44,7 @@ module.exports = Reflux.createStore({
 		obj.attributes['Date'] = d;
 
 		$.get({
-			url: 'http://localhost:3000',
+			url: 'https://pasadena-area-transport-system.herokuapp.com',
 			data: obj.attributes,
 			success: function(data) {
 				if(data != null) {
@@ -59,7 +59,7 @@ module.exports = Reflux.createStore({
 		obj.attributes['time'] = Time;
 
 		$.get({
-			url: 'http://localhost:3000',
+			url: 'https://pasadena-area-transport-system.herokuapp.com',
 			data: obj.attributes,
 			success: function(data) {
 				if(data != null) {

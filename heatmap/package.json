@@ -8,7 +8,6 @@
   },
   "private": true,
   "scripts": {
-    "preinstall": "grunt browserify",
     "start": "node ./bin/www"
   },
   "dependencies": {
