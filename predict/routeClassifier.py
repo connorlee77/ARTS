@@ -22,45 +22,38 @@ def getDataFrame(path, filename):
 
 
 if __name__ == "__main__":
-	PATH = '../predict/output'
-	df = getDataFrame(PATH, "stations.csv")
-	stationFrame = df.groupby('station').agg({'Avg Arrival Diff': np.mean}, 'count')
-	stationCount = df.groupby('station').agg('count')
-	stationFrame['counts'] = np.log(stationCount['station'])
+	PATH = '../data/mergedData'
+	df = getDataFrame(PATH, "For_Jim.csv")
+	routeFrame = df.groupby('Route').agg({'Avg Arrival Diff': np.mean}, 'count')
+	routeCount = df.groupby('Route').agg('count')
+	routeFrame['counts'] = np.log(routeCount['Route'])
 
 	
 	colors = np.array([x for x in 'bgrcmykbgrcmykbgrcmykbgrcmyk'])
 	colors = np.hstack([colors] * 20)
 	
-	stationFrameScaled = scale(stationFrame)
+	routeFrameScaled = scale(routeFrame)
 	
 	spectral = SpectralClustering(n_clusters=2, eigen_solver='arpack', affinity="rbf")
-	fit = spectral.fit_predict(stationFrameScaled)
-	stationFrame['predictedClass'] = fit
+	fit = spectral.fit_predict(routeFrameScaled)
+	routeFrame['predictedClass'] = fit
 	
-	print(stationFrame.index.tolist())
-	labels = stationFrame.index.tolist()
+	print(routeFrame)
 	fig = plt.figure()
-	plt.scatter(stationFrame['Avg Arrival Diff'],stationFrame['counts'], color = colors[fit].tolist(), s=50)
-	for label, x, y in zip(labels, stationFrame['Avg Arrival Diff'],stationFrame['counts']):
-		plt.annotate(
-        label, fontsize = 7,
-        xy = (x, y), xytext = (-10, 10),
-        textcoords = 'offset points', ha = 'right', va = 'bottom',
-        bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
-        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))
-	plt.title('The Workhorse Bus Stops of Pasadena ARTS \n - Spectral Clustering in Two Dimensions -' )
+	plt.scatter(routeFrame['Avg Arrival Diff'],routeFrame['counts'], color = colors[fit].tolist(), s=50)
+	
+	plt.title('The Workhorse Routes of Pasadena ARTS \n - Spectral Clustering in Two Dimensions -' )
 	plt.xlabel("Average Delay in minutes")
 	plt.ylabel("Logarithm of total passenger count")
-	plt.savefig('station.png')
+	plt.savefig('routeCluster.png')
 	
-	print("Valuable Bus Stops: \n")
-	print(stationFrame[stationFrame['predictedClass'] == 1])
+	print("Valuable Routes: \n")
+	print(routeFrame[routeFrame['predictedClass'] == 0])
 	
 	
 	# pca visualization, not as sexy as one above
 	pcaDecomp =  PCA(n_components=2)
-	reduced_data = pcaDecomp.fit_transform(stationFrame)
+	reduced_data = pcaDecomp.fit_transform(routeFrame)
 	spectral.fit(reduced_data)
 	print(reduced_data)
 	h = 0.3
@@ -77,4 +70,4 @@ if __name__ == "__main__":
 	plt.ylim(y_min, y_max)
 	plt.xticks(())
 	plt.yticks(())
-	plt.savefig("SpectralClusterStops.png")
+	plt.savefig("SpectralClusterBus.png")
