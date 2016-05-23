@@ -27,22 +27,23 @@ if __name__ == "__main__":
 	stationFrame = df.groupby('station').agg({'Avg Arrival Diff': np.mean}, 'count')
 	stationCount = df.groupby('station').agg('count')
 	stationFrame['counts'] = np.log(stationCount['station'])
-	print(stationFrame)
+
 	
 	colors = np.array([x for x in 'bgrcmykbgrcmykbgrcmykbgrcmyk'])
 	colors = np.hstack([colors] * 20)
-
+	
+	stationFrameScaled = scale(stationFrame)
+	print(stationFrame)
 	
 	spectral = SpectralClustering(n_clusters=2, eigen_solver='arpack', affinity="rbf")
-	X = pd.concat([stationFrame['Avg Arrival Diff'], stationFrame['counts']])
-	fit = spectral.fit_predict(stationFrame)
+	fit = spectral.fit_predict(stationFrameScaled)
 	stationFrame['predictedClass'] = fit
 	
 	print(stationFrame)
 	fig = plt.figure()
 	plt.scatter(stationFrame['Avg Arrival Diff'],stationFrame['counts'], color = colors[fit].tolist(), s=10)
 	
-	plt.title('The Workhorse Bus Stops of Pasadena ARTS \n - Spectral Clustering in Two Dimensions-' )
+	plt.title('The Workhorse Bus Stops of Pasadena ARTS \n - Spectral Clustering in Two Dimensions -' )
 	plt.xlabel("Average Delay in minutes")
 	plt.ylabel("Logarithm of total passenger count")
 	plt.savefig('station.png')
