@@ -42,7 +42,25 @@ if __name__ == "__main__":
 	fig = plt.figure()
 	plt.scatter(stationFrame['Avg Arrival Diff'],stationFrame['counts'], color = colors[fit].tolist(), s=10)
 	
-	plt.title('The Workhorse Bustops of Pasadena ARTS \n - Spectral Clustering in Two Dimensions-' )
+	plt.title('The Workhorse Bus Stops of Pasadena ARTS \n - Spectral Clustering in Two Dimensions-' )
 	plt.xlabel("Average Delay in minutes")
 	plt.ylabel("Logarithm of total passenger count")
-	plt.savefig('station.png')   
+	plt.savefig('station.png')
+	
+	h = 0.5
+	x_min, x_max = stationFrame['Avg Arrival Diff'].min() - 1, stationFrame['Avg Arrival Diff'].max() + 1
+	y_min, y_max = stationFrame['counts'].min() - 1, stationFrame['counts'].max() + 1
+	xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
+	
+	
+	Z = spectral.fit_predict(np.c_[xx.ravel(), yy.ravel()])
+	Z = Z.reshape(xx.shape)
+	fig1 = plt.figure()
+	plt.imshow(Z, interpolation='nearest',extent=(xx.min(), xx.max(), yy.min(), yy.max()), cmap=plt.cm.Paired, aspect='auto', origin='lower')
+	plt.plot(stationFrame['Avg Arrival Diff'], stationFrame['counts'], 'k.', markersize=2)
+	plt.title('cluster')
+	plt.xlim(x_min, x_max)
+	plt.ylim(y_min, y_max)
+	plt.xticks(())
+	plt.yticks(())
+	plt.savefig("SpectralClusterStops.png")
