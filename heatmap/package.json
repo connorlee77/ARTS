@@ -1,6 +1,6 @@
 {
   "name": "heatmap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "babel": {
     "presets": [
       "react"
@@ -8,6 +8,7 @@
   },
   "private": true,
   "scripts": {
+    "preinstall": "grunt browserify",
     "start": "node ./bin/www"
   },
   "dependencies": {
@@ -39,5 +40,9 @@
     "browserify": "^13.0.1",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-sass": "^1.2.0"
+  },
+  "engines": {
+    "node": "6.1.0"
   }
+
 }
