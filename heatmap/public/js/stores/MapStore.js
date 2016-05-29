@@ -2,6 +2,8 @@ var Reflux  = require('reflux');
 var $       = require('jquery');
 var _       = require('underscore');
 var actions = require('../actions/MapActions');
+var moment  = require('moment');
+moment().format();
 
 
 module.exports = Reflux.createStore({
@@ -37,32 +39,19 @@ module.exports = Reflux.createStore({
 				}
 			}
 		});
-	}, 
+	},
 
-	onDateEntered: function(d) {
+	onTimeEntered: function(Time1, Time2) {
 		var obj = this;
-		obj.attributes['Date'] = d;
+
+		obj.attributes['start'] = Time1;
+		obj.attributes['end'] = Time2
 
 		$.get({
-			url: 'https://pasadena-area-transport-system.herokuapp.com',
+			url: 'test',
 			data: obj.attributes,
 			success: function(data) {
-				if(data != null) {
-					obj.trigger(data)
-				}
-			}
-		});
-	}, 
-
-	onTimeEntered: function(Time) {
-		var obj = this;
-		obj.attributes['time'] = Time;
-
-		$.get({
-			url: 'https://pasadena-area-transport-system.herokuapp.com',
-			data: obj.attributes,
-			success: function(data) {
-				if(data != null) {
+				if(data != null || data != '' || data != []) {
 					obj.trigger(data)
 				}
 			}

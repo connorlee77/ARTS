@@ -6,6 +6,8 @@ var Reflux   = require('reflux');
 var MapStore = require('../stores/MapStore');
 var Actions  = require('../actions/MapActions');
 var latlng   = require('./latlng');
+var moment   = require('moment');
+moment().format();
 require('bootstrap');
 
 
@@ -34,27 +36,40 @@ var DateRange = React.createClass({
 		}
 	},
 
-	handleDateChange: function() {
-		var inputValue = this.refs.dateRange.value;
-		Actions.dateEntered(inputValue);
+	componentDidMount: function() {
+		$('.ok').hide();
 	},
 
 	handleTimeChange: function() {
 		var inputValue = this.refs.timeRange.value;
-		Actions.timeEntered(inputValue);
+
+		times = inputValue.split('-');
+		$('.ok').hide()
+
+		var validate = "HH:mm:ss";
+		var start = moment($.trim(times[0]), validate, true);
+		var end = moment($.trim(times[1]), validate, true);
+
+		if((start.isValid() && end.isValid()) || times == '') {
+			
+			if (times == '') {
+				Actions.timeEntered('', '');
+			} else {
+				Actions.timeEntered(
+					$.trim(times[0]), 
+					$.trim(times[1]));
+				$('.ok').show()
+			}
+		}
 	},
 
 	render: function() {
 		return (
 			<div>
 				<div className='input-group ranges'>
-					<span className="sr-only" for="dateRange">Date Range</span>
-					<input type="text" ref='dateRange' className="form-control" id="dateRange" placeholder="Start - End: ex. 4/17/16 - 4/25/16 " onChange= {this.handleDateChange}></input>`
-				</div>
-
-				<div className='input-group ranges'>
 					<span className="sr-only" for="timeRange">Time Range</span>
-					<input type="text" ref='timeRange' className="form-control" id="timeRange" placeholder="Start - End: ex. 9:00 - 14:00" onChange= {this.handleTimeChange}></input>`
+					<input type="text" ref='timeRange' className="form-control" id="timeRange" placeholder="Time range: ex. 9:00:00 - 14:00:00" onChange= {this.handleTimeChange}></input>
+					<span className='ok'></span>
 				</div>
 			</div>
 		);
@@ -67,7 +82,7 @@ var Form = React.createClass({
 
 	render: function() {
 
-		var buttonLabels = ['Weekday', 'Weekend', 'Reg SV College', 'PS CTW', 'EZ Pass S/D Z2', 'EZ Pass S/D Z3', 'EZ Pass S/D Z0', 'EZ Pass S/D Z1', 'PS Try Tran Mon', 'DCFS EZ (New)', 'EZ PassS/D Repl', 'Reg SV Student', 'EZ Annual Z0', 'EZ Annual Z1', 'EZ Annual Z5', 'Reg Senior 60', 'EZ Pass AdultZ1', 'EZ Pass AdultZ0', 'EZ Pass AdultZ2', 'ASI', 'FareProduct', 'EZ Pass AD Repl', 'Reg SV Sr/Dis', 'Reg SV Regular'];
+		var buttonLabels = ['Reg SV College', 'PS CTW', 'EZ Pass S/D Z2', 'EZ Pass S/D Z3', 'EZ Pass S/D Z0', 'EZ Pass S/D Z1', 'PS Try Tran Mon', 'DCFS EZ (New)', 'EZ PassS/D Repl', 'Reg SV Student', 'EZ Annual Z0', 'EZ Annual Z1', 'EZ Annual Z5', 'Reg Senior 60', 'EZ Pass AdultZ1', 'EZ Pass AdultZ0', 'EZ Pass AdultZ2', 'ASI', 'EZ Pass AD Repl', 'Reg SV Sr/Dis', 'Reg SV Regular'];
 
 		return (
 			<div className='row' id='selectors'>
