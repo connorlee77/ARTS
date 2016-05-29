@@ -1,6 +1,5 @@
 var express = require('express');
 var router = express.Router();
-var trip = require('./arts');
 var _ = require('underscore');
 
 var knex = require('knex')({
@@ -14,39 +13,72 @@ var knex = require('knex')({
     }
 });
 
+/*var knex = require('knex')({
+    client: 'pg',
+    connection: {
+    	host: 'localhost',
+    	user: 'connor',
+    	password: '7777',
+    	port: '5432',
+    	database: 'connor'
+    }
+});*/
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
     res.render('index', { title: 'Pasadena ARTS' });
 });
 
 router.get('/test', function(req, res, next) {
+	console.log(req.query['items']);
 
-	if (req.query['items'] == undefined) {
-		res.status(200).send([]);
+	if ((req.query['items'] == [] || req.query['items'] === undefined) && (req.query['start'] === undefined || req.query['start'] === '')) {
+		res.send([]);
 		return;
 	}
+	// Buttons
+	var rawQuery = '';
 
-	var rawQuery = 'SELECT COUNT(*), arts.station FROM arts WHERE';
+	if (req.query['items'] == [] || req.query['items'] === undefined) {
 
+		if(req.query['start'] !== undefined && req.query['start'] !== '') {
+			rawQuery = 'SELECT COUNT(*), arts.station FROM arts WHERE   ';
+		}
+
+	} else if(req.query['items'].length > 0){
+		rawQuery = 'SELECT COUNT(*), arts.station FROM arts WHERE (';
+	}
+
+
+	var tempQuery = '';
 	_.each(req.query['items'], function(item) {
-		var tempQuery = " arts.fareproduct = \'" + item + '\' or';
+		tempQuery = " arts.fareproduct = \'" + item + '\' or';
 		rawQuery += tempQuery; 
 	});
 
-	rawQuery = rawQuery.substring(0, rawQuery.length - 2);
+	if (tempQuery === '') {
+		rawQuery = rawQuery.substring(0, rawQuery.length - 2);
+	} else {
+		rawQuery = rawQuery.substring(0, rawQuery.length - 2) + ') ';
+	} 
 
-/*	var time = req.query['time'] 
-	if(req.query['time'] != '') {
+	// Time
+	var start = req.query['start'];
+	var end = req.query['end'];
 
-		var time = time.split(' - ');
-		console.log(time);
-		var tempQuery = " (arts.tapdata >= " + time[0] + " and arts.tapdata <=" + time[1] + ')'
+	tempQuery = '';
+	if(start != '' && end != '' && start != undefined && end != undefined) {
+		tempQuery = " (arts.tapdate::time >= " + '\'' + start + '\'' + " and arts.tapdate::time <=" + '\'' + end + '\''  + ') ';
+	} 
+
+	if (req.query['items'] == [] || req.query['items'] === undefined) {
+		rawQuery += tempQuery;
+	} else if(req.query['items'].length > 0 && tempQuery != ''){
+		rawQuery += ' AND ' + tempQuery;
 	}
-
-	if(req.query['date'] != '') {
-		
-	}*/
-	rawQuery += 'GROUP BY arts.station'
+	
+	
+	rawQuery += 'GROUP BY arts.station';
 	console.log(rawQuery);
 
     knex.schema.raw(rawQuery).then(function(resp) {
